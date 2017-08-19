@@ -1,353 +1,438 @@
-\contentsline {chapter}{2002}{11}
-\contentsline {section}{\numberline {Jul 24th}Just Another Layer of Complicated Subsidies}{11}
-\contentsline {section}{\numberline {Jul 31st}Enough Basic Food Must Be Available for Poorest}{12}
-\contentsline {section}{\numberline {Aug 7th}A Case for Conventional Farming}{14}
-\contentsline {section}{\numberline {Aug 14th}Harvesting Was Much More Fun 200 Years Ago}{16}
-\contentsline {section}{\numberline {Aug 21st}Vaccinate Our Badgers Now}{18}
-\contentsline {section}{\numberline {Aug 28th}All Is Safely Gathered in}{19}
-\contentsline {section}{\numberline {Sep 4th}When It Comes to Politics Take a French Lesson}{21}
-\contentsline {section}{\numberline {Sep 11th}Ministers Have Proved to Be a Big Failure in Recent Years}{22}
-\contentsline {section}{\numberline {Sep 18th}No Shortage of Wildlife}{24}
-\contentsline {section}{\numberline {Sep 25th}DEFRA's 30-page Booklets}{26}
-\contentsline {section}{\numberline {Oct 2nd}Give GM Crops a Chance.doc}{28}
-\contentsline {section}{\numberline {Oct 16th}Stepping Stones Through the States}{29}
-\contentsline {section}{\numberline {Oct 23rd}Hurricane Adds Miles to American Saga}{31}
-\contentsline {section}{\numberline {Oct 30th}Nothing Great About Steaks}{33}
-\contentsline {section}{\numberline {Nov 6th}Final Leg of the US Saga}{35}
-\contentsline {section}{\numberline {Nov 13th}Time to Get Together}{37}
-\contentsline {section}{\numberline {Nov 20th}Restaurant Waste Raises One Weighty Discussion}{39}
-\contentsline {section}{\numberline {Nov 27th}When Foot and Mouth Was Just a Fact of Life}{41}
-\contentsline {section}{\numberline {Dec 4th}Farming Is for the Birds}{43}
-\contentsline {section}{\numberline {Dec 11th}Wrath of Bird Lovers}{45}
-\contentsline {section}{\numberline {Dec 18th}Times That Seem a World Away}{46}
-\contentsline {chapter}{2003}{49}
-\contentsline {section}{\numberline {Jan 1st}A Future Full of Optimism}{49}
-\contentsline {section}{\numberline {Jan 8th}The Plight of Small Family Farms}{51}
-\contentsline {section}{\numberline {Jan 15th}MVF Showed the Way}{53}
-\contentsline {section}{\numberline {Jan 22nd}Can Devon Outlaw GM?}{55}
-\contentsline {section}{\numberline {Jan 29th}Busy Week Off the Farm}{57}
-\contentsline {section}{\numberline {Feb 5th}``Fischler Reforms Are Good News"}{58}
-\contentsline {section}{\numberline {Feb 12th}``Home Kill Would Improve Welfare"}{61}
-\contentsline {section}{\numberline {Feb 19th}Fifties Saw Profound Change in Our Way of Life}{63}
-\contentsline {section}{\numberline {Feb 26th}Improved NFU Conference}{65}
-\contentsline {section}{\numberline {Mar 5th}Non-burial Lunacy}{66}
-\contentsline {section}{\numberline {Mar 12th}Payments Good for Husbandry}{68}
-\contentsline {section}{\numberline {Mar 19th}Retired Vet Fills Breach}{70}
-\contentsline {section}{\numberline {Mar 26th}Let's Hope This War Is Over Soon}{72}
-\contentsline {section}{\numberline {Apr 2nd}Heifers Go to Market Too Early}{74}
-\contentsline {section}{\numberline {Apr 9th}Twaddle in 2020 Report}{76}
-\contentsline {section}{\numberline {Apr 16th}Banality of ``Essential" Pamphlets}{77}
-\contentsline {section}{\numberline {Apr 23rd}Thundering Over Times Opinions}{79}
-\contentsline {section}{\numberline {Apr 30th}Will Carp Ponds Be Banned?}{81}
-\contentsline {section}{\numberline {May 7th}Gilbards Enjoy Reunion}{83}
-\contentsline {section}{\numberline {May 14th}Market Was Empty as a Desert}{85}
-\contentsline {section}{\numberline {May 21st}But How Will Highgrove Fare?}{87}
-\contentsline {section}{\numberline {May 28th}Importance of Wearing Right Hat}{89}
-\contentsline {section}{\numberline {Jun 4th}Multiples Are Good Guys}{90}
-\contentsline {section}{\numberline {Jun 11th}Where the Euro-Bison Still Roam}{92}
-\contentsline {section}{\numberline {Jun 18th}Poland Fears Entry Into EU}{94}
-\contentsline {section}{\numberline {Jul 2nd}Poland Faces up to EU Changes}{96}
-\contentsline {section}{\numberline {Jul 9th}Butterfly Thistles Quandary}{98}
-\contentsline {section}{\numberline {Jul 16th}Memories of Former Droughts}{100}
-\contentsline {section}{\numberline {Jul 23rd}Phone Truths for DEFRA Data}{101}
-\contentsline {section}{\numberline {Jul 30th}Show Just Like Good Old Days}{103}
-\contentsline {section}{\numberline {Aug 6th}No More PAYE Documents}{105}
-\contentsline {section}{\numberline {Aug 13th}New Bull Must Work Fast}{107}
-\contentsline {section}{\numberline {Aug 20th}Godsend of City Money}{108}
-\contentsline {section}{\numberline {Aug 27th}Townies Must Stop Pollution}{110}
-\contentsline {section}{\numberline {Sep 3rd}Trimmers Have Saved Hedgerows}{112}
-\contentsline {section}{\numberline {Sep 10th}No End to Loony Legislation}{114}
-\contentsline {section}{\numberline {Sep 17th}Wake up to Loss of Rural Life}{116}
-\contentsline {section}{\numberline {Sep 24th}Cider Apples Were Ten Bob a Sack}{117}
-\contentsline {section}{\numberline {Oct 1st}Ongoing Doubts on GM Foods}{119}
-\contentsline {section}{\numberline {Oct 8th}You Can't Beat Fresh Produce}{121}
-\contentsline {section}{\numberline {Oct 15th}Ben Gill Held His Nerve}{123}
-\contentsline {section}{\numberline {Oct 22nd}Who Left Our Gate Open?}{124}
-\contentsline {section}{\numberline {Oct 29th}Why Farmers Must Not Become ``Park Keepers"}{126}
-\contentsline {section}{\numberline {Nov 5th}Importance of Saving Our Hedges}{128}
-\contentsline {section}{\numberline {Nov 12th}Our Stock Bull Just Had to Go}{129}
-\contentsline {section}{\numberline {Nov 19th}A Rotten Lot of Ministers}{131}
-\contentsline {section}{\numberline {Nov 26th}Clubs Give Guidance}{132}
-\contentsline {section}{\numberline {Dec 3rd}Auctions Used to Be Fun}{134}
-\contentsline {section}{\numberline {Dec 10th}Mushrooms Appeared in November}{136}
-\contentsline {section}{\numberline {Dec 17th}Threat of Bold Badgers}{137}
-\contentsline {section}{\numberline {Dec 24th}Memories of Geese and Ducks}{139}
-\contentsline {section}{\numberline {Dec 31st}Time to Get Rid of Quotas}{140}
-\contentsline {chapter}{2004}{143}
-\contentsline {section}{\numberline {Jan 7th}Horrified by Lack of Action}{143}
-\contentsline {section}{\numberline {Jan 14th}What Shall We Do With Big Cats}{145}
-\contentsline {section}{\numberline {Jan 21st}Waste of Time and Money}{146}
-\contentsline {section}{\numberline {Jan 28th}Stupidity of Burial Ban Rules}{147}
-\contentsline {section}{\numberline {Feb 4th}Sweet Water From the Spring}{149}
-\contentsline {section}{\numberline {Feb 11th}Well Done Fischler}{150}
-\contentsline {section}{\numberline {Feb 18th}Pulling Power of Runaway}{152}
-\contentsline {section}{\numberline {Feb 25th}Lambing Nearly Over}{154}
-\contentsline {section}{\numberline {Mar 3rd}Problems of the ``Good Life"}{155}
-\contentsline {section}{\numberline {Mar 10th}Meetings Have Changed}{157}
-\contentsline {section}{\numberline {Mar 17th}Lucky Not to Commute}{158}
-\contentsline {section}{\numberline {Mar 24th}Old Ties to Down St. Mary}{160}
-\contentsline {section}{\numberline {Mar 31st}Stitch-up for Hill Farmers}{162}
-\contentsline {section}{\numberline {Apr 7th}Happier When I Disagree}{163}
-\contentsline {section}{\numberline {Apr 14th}Stupidity of Stewardship Regulations}{164}
-\contentsline {section}{\numberline {Apr 21st}Our Barn Owls Are Back}{166}
-\contentsline {section}{\numberline {Apr 28th}Last Effort With the Old Forms}{167}
-\contentsline {section}{\numberline {May 5th}Waking up to a Changing World}{169}
-\contentsline {section}{\numberline {May 12th}Language Barrier and Distance Block}{170}
-\contentsline {section}{\numberline {May 19th}Ploughing as Far as Carlisle}{172}
-\contentsline {section}{\numberline {May 26th}Cows Mobbed a Dying Buzzard}{173}
-\contentsline {section}{\numberline {Jun 2nd}High Price of Asbestos}{175}
-\contentsline {section}{\numberline {Jun 9th}Idiotic Time Limit}{176}
-\contentsline {section}{\numberline {Jun 16th}Wonderful Hedgerow Flowers}{178}
-\contentsline {section}{\numberline {Jun 23rd}UKIP Should Rethink}{179}
-\contentsline {section}{\numberline {Jun 30th}Sheep and Lambs Shorn in a Wind Tunnel}{181}
-\contentsline {section}{\numberline {Jul 7th}Harry Sparks a Hunt}{182}
-\contentsline {section}{\numberline {Jul 14th}Woodfair Was Truly Wonderful}{183}
-\contentsline {section}{\numberline {Jul 21st}`People Miles' Concern}{185}
-\contentsline {section}{\numberline {Jul 28th}Beckett's Fuddled Thinking}{186}
-\contentsline {section}{\numberline {Aug 4th}Are Forecasts Going Haywire?}{188}
-\contentsline {section}{\numberline {Aug 11th}DEFRA's Tea Party}{190}
-\contentsline {section}{\numberline {Aug 18th}Is It Fair to Blame Farmers?}{191}
-\contentsline {section}{\numberline {Aug 25th}Ambition Fulfilled at Last}{193}
-\contentsline {section}{\numberline {Sep 1st}Ignorance That Makes Me Furious}{194}
-\contentsline {section}{\numberline {Sep 8th}Farmer V Rook Gang}{196}
-\contentsline {section}{\numberline {Sep 15th}Organic Benefits Beckon}{198}
-\contentsline {section}{\numberline {Sep 22nd}Is Global Warming True?}{199}
-\contentsline {section}{\numberline {Sep 29th}Futility of OTMS System}{201}
-\contentsline {section}{\numberline {Oct 6th}Beef Event's Success}{202}
-\contentsline {section}{\numberline {Oct 13th}YFCs Look to Future}{204}
-\contentsline {section}{\numberline {Oct 27th}Sorry to Lose Fischler}{205}
-\contentsline {section}{\numberline {Nov 3rd}November Ground Is in a Soggy State}{207}
-\contentsline {section}{\numberline {Nov 10th}Morley Knows Better}{209}
-\contentsline {section}{\numberline {Nov 17th}Problem of New System}{210}
-\contentsline {section}{\numberline {Nov 24th}Training Days for DEFRA}{212}
-\contentsline {section}{\numberline {Dec 1st}Lottery of New Crops}{213}
-\contentsline {section}{\numberline {Dec 8th}Lore of the Versatile Goose}{215}
-\contentsline {section}{\numberline {Dec 15th}Brave Choice Speaker}{217}
-\contentsline {section}{\numberline {Dec 22nd}First Find Your Farm}{218}
-\contentsline {section}{\numberline {Dec 29th}We Find Our First Holding}{220}
-\contentsline {chapter}{2005}{222}
-\contentsline {section}{\numberline {Jan 5th}Haggling for Our Farm}{222}
-\contentsline {section}{\numberline {Jan 12th}Wish List for 2005}{223}
-\contentsline {section}{\numberline {Jan 19th}Problems of Plastic Culture}{225}
-\contentsline {section}{\numberline {Jan 26th}Biofuel Call to Blair}{227}
-\contentsline {section}{\numberline {Feb 2nd}Burial Ban Correct}{228}
-\contentsline {section}{\numberline {Feb 16th}What Is a Spud?}{230}
-\contentsline {section}{\numberline {Feb 23rd}River Trout Return}{232}
-\contentsline {section}{\numberline {Mar 2nd}Icy Chill as Spring Arrives Like a Lion}{233}
-\contentsline {section}{\numberline {Mar 9th}I Would Not Hesitate to Shoot Badger}{234}
-\contentsline {section}{\numberline {Mar 16th}Paying the Price of a Visit to Town}{236}
-\contentsline {section}{\numberline {Mar 23rd}What a Waste of Time}{237}
-\contentsline {section}{\numberline {Mar 30th}That Buzz of Benchmark}{239}
-\contentsline {section}{\numberline {Apr 6th}Did Rabbits Hold the Answer to TB}{240}
-\contentsline {section}{\numberline {Apr 13th}Wilson Was Surprised}{242}
-\contentsline {section}{\numberline {Apr 20th}Scandal of Food Waste}{244}
-\contentsline {section}{\numberline {Apr 27th}Anguish of TB Reaction}{245}
-\contentsline {section}{\numberline {May 4th}Now, If I Were the Prime Minister\dots }{247}
-\contentsline {section}{\numberline {May 18th}UNPUBLISHED NEXT ARTICLE COVERS SIMILAR CONTENT}{248}
-\contentsline {section}{\numberline {Jun 1st}Filling Forms Is Over}{250}
-\contentsline {section}{\numberline {Jun 8th}Joy of Farm Diaries}{252}
-\contentsline {section}{\numberline {Jun 15th}Haymaking Before Silaging}{253}
-\contentsline {section}{\numberline {Jun 22nd}Hassle of TB Tests}{255}
-\contentsline {section}{\numberline {Jun 29th}Getting in Our Good Hay}{256}
-\contentsline {section}{\numberline {Jul 6th}Mapping Out Trees}{258}
-\contentsline {section}{\numberline {Jul 13th}Woodfair Better Than Ever}{259}
-\contentsline {section}{\numberline {Jul 20th}Ignorance of Our Premier}{261}
-\contentsline {section}{\numberline {Jul 27th}Just What Is in Fact a Real Family Farm}{263}
-\contentsline {section}{\numberline {Aug 3rd}Memories of Fairs of Old}{264}
-\contentsline {section}{\numberline {Aug 10th}Lunacy of Stock Scheme}{266}
-\contentsline {section}{\numberline {Aug 17th}Organic Problems With Charlock}{267}
-\contentsline {section}{\numberline {Aug 24th}Best of Summer -- So Far}{269}
-\contentsline {section}{\numberline {Aug 31st}Shut the Gate}{271}
-\contentsline {section}{\numberline {Sep 7th}Organic System's Quirks}{272}
-\contentsline {section}{\numberline {Sep 14th}Where There's Muck}{274}
-\contentsline {section}{\numberline {Sep 21st}Oxen Shoeing Mystery}{275}
-\contentsline {section}{\numberline {Sep 28th}Looking Back to 1945}{277}
-\contentsline {section}{\numberline {Oct 5th}Am I Really a Churl?}{278}
-\contentsline {section}{\numberline {Oct 26th}Lack of Calves Profit}{280}
-\contentsline {section}{\numberline {Nov 2nd}Special Deals Stink}{281}
-\contentsline {section}{\numberline {Nov 9th}My Land Looks Better}{283}
-\contentsline {section}{\numberline {Nov 16th}Delving Into the Past}{285}
-\contentsline {section}{\numberline {Nov 23rd}DEFRA's Morale Problems}{286}
-\contentsline {section}{\numberline {Nov 30th}Relief at No Milking}{288}
-\contentsline {section}{\numberline {Dec 7th}Fed up With Margaret}{289}
-\contentsline {section}{\numberline {Dec 14th}Which Sean to Believe?}{291}
-\contentsline {chapter}{2006}{293}
-\contentsline {section}{\numberline {Jan 4th}History of a Fireplace}{293}
-\contentsline {section}{\numberline {Jan 11th}Making Poverty History?}{294}
-\contentsline {section}{\numberline {Jan 18th}Robin and Zac's Ideas}{296}
-\contentsline {section}{\numberline {Jan 25th}Lambs Lift My Spirits}{298}
-\contentsline {section}{\numberline {Feb 1st}Beckett in My Sights}{299}
-\contentsline {section}{\numberline {Feb 8th}Are Badgers Sacred Cows?}{301}
-\contentsline {section}{\numberline {Feb 15th}Great Days of NFU}{302}
-\contentsline {section}{\numberline {Feb 22nd}Annual Whinge Time}{304}
-\contentsline {section}{\numberline {Mar 1st}Hoping for a Time of No News}{305}
-\contentsline {section}{\numberline {Mar 8th}Unhelpful Information}{307}
-\contentsline {section}{\numberline {Mar 15th}Muddled Views on Badgers}{309}
-\contentsline {section}{\numberline {Mar 22nd}Peck of March Dust}{310}
-\contentsline {section}{\numberline {Mar 29th}Time for a Tough Approach}{312}
-\contentsline {section}{\numberline {Apr 5th}Rubbish About Payments}{313}
-\contentsline {section}{\numberline {Apr 19th}What Is Natural England?}{315}
-\contentsline {section}{\numberline {Apr 26th}Problems of Going Organic}{317}
-\contentsline {section}{\numberline {May 3rd}When the Taps Run Dry}{318}
-\contentsline {section}{\numberline {May 10th}What a Very Real Waste}{320}
-\contentsline {section}{\numberline {May 24th}Nasty Shock Averted}{321}
-\contentsline {section}{\numberline {May 31st}Old Cow Welfare Lunacy}{323}
-\contentsline {section}{\numberline {Jun 7th}Flaming June at Long Last}{325}
-\contentsline {section}{\numberline {Jun 14th}No More Daisies in Fields}{326}
-\contentsline {section}{\numberline {Jun 21st}New Rules Hard to Swallow}{328}
-\contentsline {section}{\numberline {Jun 28th}Redundant at Sheep Shearing}{329}
-\contentsline {section}{\numberline {Jul 5th}Hot Air of Doom Mongers}{331}
-\contentsline {section}{\numberline {Jul 12th}Porcine Foresters}{332}
-\contentsline {section}{\numberline {Jul 19th}Bunkum About Badgers}{334}
-\contentsline {section}{\numberline {Aug 2nd}Miliband Must Sort Out DEFRA}{336}
-\contentsline {section}{\numberline {Aug 9th}Excellent Flavour of Beef}{337}
-\contentsline {section}{\numberline {Aug 16th}Old Boy Auger Problem}{339}
-\contentsline {section}{\numberline {Aug 23rd}Road Safety Matters}{340}
-\contentsline {section}{\numberline {Aug 30th}Plenty to Beef About}{342}
-\contentsline {section}{\numberline {Sep 6th}The Age of Kale Recalled}{343}
-\contentsline {section}{\numberline {Sep 13th}Tory's Badger Blues}{345}
-\contentsline {section}{\numberline {Sep 20th}Fun Way to Pick Apples}{346}
-\contentsline {section}{\numberline {Sep 27th}What Is DEFRA Planning?}{348}
-\contentsline {section}{\numberline {Oct 4th}On Going Dairy Problems}{350}
-\contentsline {section}{\numberline {Oct 11th}Farming Insects and Birds}{351}
-\contentsline {section}{\numberline {Oct 18th}New Rule Would Finish Us}{353}
-\contentsline {section}{\numberline {Oct 25th}Calving Amid the Thunder}{354}
-\contentsline {section}{\numberline {Nov 1st}Officials Change the Rules}{356}
-\contentsline {section}{\numberline {Nov 8th}Spending Green Tax Cash}{357}
-\contentsline {section}{\numberline {Nov 15th}Cornish Pasties Origins}{359}
-\contentsline {section}{\numberline {Nov 22nd}Moment of Truth Is Near}{360}
-\contentsline {section}{\numberline {Nov 29th}Old Sow's Maternal Instincts}{362}
-\contentsline {section}{\numberline {Dec 6th}Case for Mixed Farming}{364}
-\contentsline {section}{\numberline {Dec 13th}Too Many Weather Experts}{365}
-\contentsline {section}{\numberline {Dec 20th}Longer Days on the Way}{367}
-\contentsline {chapter}{2007}{369}
-\contentsline {section}{\numberline {Jan 3rd}Unfazed by Minor Niggles}{369}
-\contentsline {section}{\numberline {Jan 10th}A Tale of Mice and Men}{370}
-\contentsline {section}{\numberline {Jan 17th}Scheme Is Bound to Founder}{372}
-\contentsline {section}{\numberline {Jan 24th}Why I Like the Big Multiples}{373}
-\contentsline {section}{\numberline {Jan 31st}Amazing Advances in IT}{375}
-\contentsline {section}{\numberline {Feb 7th}Keeping Co-ops Focused}{377}
-\contentsline {section}{\numberline {Feb 14th}Harvesting Trees Each Century}{378}
-\contentsline {section}{\numberline {Feb 21st}Learning From the Past}{380}
-\contentsline {section}{\numberline {Feb 28th}Fruitless Foray on the Internet}{381}
-\contentsline {section}{\numberline {Mar 7th}Enough Water This Summer}{383}
-\contentsline {section}{\numberline {Mar 14th}Challenge of Cheap Imports}{384}
-\contentsline {section}{\numberline {Mar 21st}Syringes Worked a Wonder}{386}
-\contentsline {section}{\numberline {Mar 28th}Why Cut the Front Lawn}{388}
-\contentsline {section}{\numberline {Apr 4th}Cheap and Affordable}{389}
-\contentsline {section}{\numberline {Apr 11th}Why All This Dairy Elation?}{390}
-\contentsline {section}{\numberline {Apr 18th}Answers Please in English}{392}
-\contentsline {section}{\numberline {Apr 25th}Driest April for 69 Years}{393}
-\contentsline {section}{\numberline {May 2nd}New Law on Use of Byways}{395}
-\contentsline {section}{\numberline {May 9th}Return of Myxi to Rabbits}{396}
-\contentsline {section}{\numberline {May 23rd}Signed up as a New Luddite}{398}
-\contentsline {section}{\numberline {May 30th}Don't Ask Gordon Out West}{400}
-\contentsline {section}{\numberline {Jun 6th}Darfur Challenge for Jamie Oliver}{401}
-\contentsline {section}{\numberline {Jun 13th}Sort Out Diseases Gordon}{403}
-\contentsline {section}{\numberline {Jun 20th}Delight at Fledging Owl Flight}{404}
-\contentsline {section}{\numberline {Jun 27th}Bourne's Mind Closed}{406}
-\contentsline {section}{\numberline {Jul 4th}Keep a Weather Eye Open}{408}
-\contentsline {section}{\numberline {Jul 11th}Blackbird's Songs for RABI}{409}
-\contentsline {section}{\numberline {Jul 18th}Is Benn the Right Person}{411}
-\contentsline {section}{\numberline {Jul 25th}CPRE's Wrong Leader}{412}
-\contentsline {section}{\numberline {Aug 1st}Still Time to Escape Disaster}{414}
-\contentsline {section}{\numberline {Aug 8th}Revealing FMD's Disaster}{415}
-\contentsline {section}{\numberline {Aug 15th}Smaller Farms to Suffer}{417}
-\contentsline {section}{\numberline {Aug 22nd}History of Our Buildings}{418}
-\contentsline {section}{\numberline {Aug 29th}``Slurry Sunday"}{420}
-\contentsline {section}{\numberline {Sep 5th}Insufficient Straw for Bedding}{422}
-\contentsline {section}{\numberline {Sep 12th}Irritation Over More Red Tape}{423}
-\contentsline {section}{\numberline {Sep 19th}Which Know-all to Believe?}{425}
-\contentsline {section}{\numberline {Sep 26th}Lunacy of Livestock Burial Ban}{427}
-\contentsline {section}{\numberline {Oct 3rd}Daft Ideas From DEFRA}{428}
-\contentsline {section}{\numberline {Oct 24th}Traffic Queuing Blues}{430}
-\contentsline {section}{\numberline {Oct 31st}Massive Cull Won't Happen}{431}
-\contentsline {section}{\numberline {Nov 7th}No Going Back for Wildlife}{433}
-\contentsline {section}{\numberline {Nov 14th}CAP Is Just Not Common}{434}
-\contentsline {section}{\numberline {Nov 21st}Optimism on Meat Prices}{436}
-\contentsline {section}{\numberline {Nov 28th}Anomolies of Organic Regulations}{438}
-\contentsline {section}{\numberline {Dec 5th}Dilemma Over Our Old Cows}{439}
-\contentsline {section}{\numberline {Dec 12th}Multiples Correctly Penalised}{441}
-\contentsline {section}{\numberline {Dec 19th}Lottery Over Farm Diseases}{442}
-\contentsline {chapter}{2008}{445}
-\contentsline {section}{\numberline {Jan 2nd}We Need Farming R\&D}{445}
-\contentsline {section}{\numberline {Jan 9th}Taking Care on Poultry}{446}
-\contentsline {section}{\numberline {Jan 16th}Exhaust Used as a Fertiliser}{448}
-\contentsline {section}{\numberline {Jan 23rd}Bluetongue Threat Explained}{449}
-\contentsline {section}{\numberline {Jan 30th}Postal Ballot for President}{451}
-\contentsline {section}{\numberline {Feb 6th}Birds to Take Priority}{453}
-\contentsline {section}{\numberline {Feb 13th}History Repeats Itself}{454}
-\contentsline {section}{\numberline {Feb 20th}Get to Grips With Disease}{456}
-\contentsline {section}{\numberline {Feb 27th}Driven by Public Opinion}{457}
-\contentsline {section}{\numberline {Mar 5th}How Can Youngsters Get Going?}{459}
-\contentsline {section}{\numberline {Mar 12th}Threat to Smaller Abattoirs}{460}
-\contentsline {section}{\numberline {Mar 19th}Pigmen Need Support}{462}
-\contentsline {section}{\numberline {Mar 26th}Paying Organic Prices}{463}
-\contentsline {section}{\numberline {Apr 2nd}Giving Lisbon a Chance}{465}
-\contentsline {section}{\numberline {Apr 9th}Biofuels Debate Rages on}{467}
-\contentsline {section}{\numberline {Apr 16th}Should We Be Growing to Feed Humans or Pets?}{468}
-\contentsline {section}{\numberline {Apr 23rd}Vegetarian Claims Are Erroneous}{470}
-\contentsline {section}{\numberline {Apr 30th}Flowers Without Directives}{471}
-\contentsline {section}{\numberline {May 7th}Time Now to Dump Minister}{473}
-\contentsline {section}{\numberline {May 21st}Charlock Problems in Triticale}{474}
-\contentsline {section}{\numberline {May 28th}French Pay More for Diesel}{476}
-\contentsline {section}{\numberline {Jun 11th}Profit of £100 in a Good Year}{477}
-\contentsline {section}{\numberline {Jun 18th}Why Plant a Field of Chamomile?}{479}
-\contentsline {section}{\numberline {Jun 25th}Missed Co-op Chances}{481}
-\contentsline {section}{\numberline {Jul 2nd}Risk of Exporting Cruelty}{482}
-\contentsline {section}{\numberline {Jul 9th}Time to Return Swill Feed?}{484}
-\contentsline {section}{\numberline {Jul 16th}Sunshine Needed to Make Hay}{485}
-\contentsline {section}{\numberline {Jul 23rd}NFU Centenary History Is Essential Reading}{487}
-\contentsline {section}{\numberline {Jul 30th}Haymaking Is a Whole Lot Easier}{490}
-\contentsline {section}{\numberline {Aug 6th}DEFRA Red Tape Ruins Farming}{491}
-\contentsline {section}{\numberline {Aug 13th}Quandary Over Older Sucklers}{493}
-\contentsline {section}{\numberline {Aug 20th}Headage Basis for Cost Share}{494}
-\contentsline {section}{\numberline {Aug 27th}NFU Can Now Make Amends}{496}
-\contentsline {section}{\numberline {Sep 3rd}Poor Forecast Was Blessing in Disguise}{497}
-\contentsline {section}{\numberline {Sep 10th}Carbon Horse Feathers}{499}
-\contentsline {section}{\numberline {Sep 24th}Banking on Change Ahead}{500}
-\contentsline {section}{\numberline {Oct 1st}Lunacy of DEFRA's Red Tape}{502}
-\contentsline {section}{\numberline {Oct 8th}Why Are We Left With Hilary Benn?}{503}
-\contentsline {section}{\numberline {Oct 22nd}Disease Vaccine Nonsense}{505}
-\contentsline {section}{\numberline {Oct 29th}The Woes of Slow E-mails}{507}
-\contentsline {section}{\numberline {Nov 5th}Measuring Carbon Footprints}{508}
-\contentsline {section}{\numberline {Nov 12th}Future of Organics in Doubt?}{510}
-\contentsline {section}{\numberline {Nov 19th}Moving Over for the Young}{511}
-\contentsline {section}{\numberline {Nov 26th}Ignorance on Animal Welfare}{513}
-\contentsline {section}{\numberline {Dec 3rd}Why Does DEFRA Veto Applications?}{515}
-\contentsline {section}{\numberline {Dec 10th}Bank Rate Returns to 2 Per Cent}{516}
-\contentsline {section}{\numberline {Dec 17th}Considering Computer Predictions}{518}
-\contentsline {section}{\numberline {Dec 31st}Will the Big Freeze of 1963 Be Repeated?}{519}
-\contentsline {chapter}{2009}{522}
-\contentsline {section}{\numberline {Jan 7th}Jumping One Hoop Too Far?}{522}
-\contentsline {section}{\numberline {Jan 14th}Problems of Farming Popularity}{523}
-\contentsline {section}{\numberline {Jan 21st}New Life for Oldest Hedgerow}{525}
-\contentsline {section}{\numberline {Jan 28th}No More Rewards to Leaders}{527}
-\contentsline {section}{\numberline {Feb 4th}Time to Bid Benn Goodbye}{528}
-\contentsline {section}{\numberline {Feb 11th}This Most Unpleasant Weather}{530}
-\contentsline {section}{\numberline {Feb 18th}Banker's Clear View Refreshing}{531}
-\contentsline {section}{\numberline {Feb 25th}Benn Gets It Wrong Yet Again}{533}
-\contentsline {section}{\numberline {Mar 4th}Benefits of Farming in the 1970s}{534}
-\contentsline {section}{\numberline {Mar 11th}How We Rebuilt Our Farm}{536}
-\contentsline {section}{\numberline {Mar 18th}Anomalies of Organic Culture}{538}
-\contentsline {section}{\numberline {Mar 25th}Vaccinate Cattle for Bovine TB}{539}
-\contentsline {section}{\numberline {Apr 1st}Aiming to Boost Bird Numbers}{541}
-\contentsline {section}{\numberline {Apr 8th}New Rules Will Lack the Time}{542}
-\contentsline {section}{\numberline {Apr 15th}Families Still Run Our Farms}{544}
-\contentsline {section}{\numberline {Apr 22nd}New Life for an Old Plough}{545}
-\contentsline {section}{\numberline {May 6th}New PC to Defeat Crime Wave}{547}
-\contentsline {section}{\numberline {May 13th}Time for Beckett to Apologise}{549}
-\contentsline {section}{\numberline {May 20th}Woes of Organic Farming}{550}
-\contentsline {section}{\numberline {May 27th}Jack's Day Out at the Show}{552}
-\contentsline {section}{\numberline {Jun 3rd}What's the Value of Four Swarms of Honey Bees}{553}
-\contentsline {section}{\numberline {Jun 10th}Sadness at Minister's Departure}{555}
-\contentsline {section}{\numberline {Jun 17th}Are Grey Squirrels Villains?}{556}
-\contentsline {section}{\numberline {Jun 24th}Children Must Stay on Farms}{558}
-\contentsline {section}{\numberline {Jul 1st}Weather Forecast Unreliable}{559}
-\contentsline {section}{\numberline {Jul 8th}Porkers Deserve a Better Life}{561}
-\contentsline {section}{\numberline {Jul 15th}Concerns on Flood Plain Plan}{562}
-\contentsline {section}{\numberline {Jul 22nd}Two-faced Claim on Badgers}{564}
-\contentsline {section}{\numberline {Jul 29th}Hopes for Harvesting Conditions}{565}
-\contentsline {section}{\numberline {Aug 19th}Beatrix Would Be Shocked}{567}
-\contentsline {section}{\numberline {Aug 26th}Bovine TB and FCN Report}{568}
-\contentsfinish 
+\contentsline {chapter}{2002}{13}
+\contentsline {section}{July}{13}
+\contentsline {subsection}{\numberline {24th}Just Another Layer of Complicated Subsidies}{13}
+\contentsline {subsection}{\numberline {31st}Enough Basic Food Must Be Available for Poorest}{14}
+\contentsline {section}{August}{16}
+\contentsline {subsection}{\numberline {7th}A Case for Conventional Farming}{16}
+\contentsline {subsection}{\numberline {14th}Harvesting Was Much More Fun 200 Years Ago}{18}
+\contentsline {subsection}{\numberline {21st}Vaccinate Our Badgers Now}{20}
+\contentsline {subsection}{\numberline {28th}All Is Safely Gathered in}{21}
+\contentsline {section}{September}{23}
+\contentsline {subsection}{\numberline {4th}When It Comes to Politics Take a French Lesson}{23}
+\contentsline {subsection}{\numberline {11th}Ministers Have Proved to Be a Big Failure in Recent Years}{25}
+\contentsline {subsection}{\numberline {18th}No Shortage of Wildlife}{26}
+\contentsline {subsection}{\numberline {25th}DEFRA's 30-page Booklets}{29}
+\contentsline {section}{October}{30}
+\contentsline {subsection}{\numberline {2nd}Give GM Crops a Chance.doc}{30}
+\contentsline {subsection}{\numberline {16th}Stepping Stones Through the States}{32}
+\contentsline {subsection}{\numberline {23rd}Hurricane Adds Miles to American Saga}{33}
+\contentsline {subsection}{\numberline {30th}Nothing Great About Steaks}{36}
+\contentsline {section}{November}{38}
+\contentsline {subsection}{\numberline {6th}Final Leg of the US Saga}{38}
+\contentsline {subsection}{\numberline {13th}Time to Get Together}{40}
+\contentsline {subsection}{\numberline {20th}Restaurant Waste Raises One Weighty Discussion}{41}
+\contentsline {subsection}{\numberline {27th}When Foot and Mouth Was Just a Fact of Life}{43}
+\contentsline {section}{December}{45}
+\contentsline {subsection}{\numberline {4th}Farming Is for the Birds}{45}
+\contentsline {subsection}{\numberline {11th}Wrath of Bird Lovers}{47}
+\contentsline {subsection}{\numberline {18th}Times That Seem a World Away}{49}
+\contentsline {chapter}{2003}{51}
+\contentsline {section}{January}{51}
+\contentsline {subsection}{\numberline {1st}A Future Full of Optimism}{51}
+\contentsline {subsection}{\numberline {8th}The Plight of Small Family Farms}{53}
+\contentsline {subsection}{\numberline {15th}MVF Showed the Way}{55}
+\contentsline {subsection}{\numberline {22nd}Can Devon Outlaw GM?}{57}
+\contentsline {subsection}{\numberline {29th}Busy Week Off the Farm}{59}
+\contentsline {section}{February}{60}
+\contentsline {subsection}{\numberline {5th}``Fischler Reforms Are Good News"}{60}
+\contentsline {subsection}{\numberline {12th}``Home Kill Would Improve Welfare"}{63}
+\contentsline {subsection}{\numberline {19th}Fifties Saw Profound Change in Our Way of Life}{65}
+\contentsline {subsection}{\numberline {26th}Improved NFU Conference}{66}
+\contentsline {section}{March}{68}
+\contentsline {subsection}{\numberline {5th}Non-burial Lunacy}{68}
+\contentsline {subsection}{\numberline {12th}Payments Good for Husbandry}{70}
+\contentsline {subsection}{\numberline {19th}Retired Vet Fills Breach}{72}
+\contentsline {subsection}{\numberline {26th}Let's Hope This War Is Over Soon}{74}
+\contentsline {section}{April}{75}
+\contentsline {subsection}{\numberline {2nd}Heifers Go to Market Too Early}{76}
+\contentsline {subsection}{\numberline {9th}Twaddle in 2020 Report}{78}
+\contentsline {subsection}{\numberline {16th}Banality of ``Essential" Pamphlets}{79}
+\contentsline {subsection}{\numberline {23rd}Thundering Over Times Opinions}{81}
+\contentsline {subsection}{\numberline {30th}Will Carp Ponds Be Banned?}{83}
+\contentsline {section}{May}{85}
+\contentsline {subsection}{\numberline {7th}Gilbards Enjoy Reunion}{85}
+\contentsline {subsection}{\numberline {14th}Market Was Empty as a Desert}{87}
+\contentsline {subsection}{\numberline {21st}But How Will Highgrove Fare?}{89}
+\contentsline {subsection}{\numberline {28th}Importance of Wearing Right Hat}{91}
+\contentsline {section}{June}{92}
+\contentsline {subsection}{\numberline {4th}Multiples Are Good Guys}{92}
+\contentsline {subsection}{\numberline {11th}Where the Euro-Bison Still Roam}{94}
+\contentsline {subsection}{\numberline {18th}Poland Fears Entry Into EU}{96}
+\contentsline {section}{July}{98}
+\contentsline {subsection}{\numberline {2nd}Poland Faces up to EU Changes}{98}
+\contentsline {subsection}{\numberline {9th}Butterfly Thistles Quandary}{100}
+\contentsline {subsection}{\numberline {16th}Memories of Former Droughts}{102}
+\contentsline {subsection}{\numberline {23rd}Phone Truths for DEFRA Data}{103}
+\contentsline {subsection}{\numberline {30th}Show Just Like Good Old Days}{105}
+\contentsline {section}{August}{107}
+\contentsline {subsection}{\numberline {6th}No More PAYE Documents}{107}
+\contentsline {subsection}{\numberline {13th}New Bull Must Work Fast}{109}
+\contentsline {subsection}{\numberline {20th}Godsend of City Money}{110}
+\contentsline {subsection}{\numberline {27th}Townies Must Stop Pollution}{112}
+\contentsline {section}{September}{114}
+\contentsline {subsection}{\numberline {3rd}Trimmers Have Saved Hedgerows}{114}
+\contentsline {subsection}{\numberline {10th}No End to Loony Legislation}{116}
+\contentsline {subsection}{\numberline {17th}Wake up to Loss of Rural Life}{118}
+\contentsline {subsection}{\numberline {24th}Cider Apples Were Ten Bob a Sack}{119}
+\contentsline {section}{October}{121}
+\contentsline {subsection}{\numberline {1st}Ongoing Doubts on GM Foods}{121}
+\contentsline {subsection}{\numberline {8th}You Can't Beat Fresh Produce}{123}
+\contentsline {subsection}{\numberline {15th}Ben Gill Held His Nerve}{125}
+\contentsline {subsection}{\numberline {22nd}Who Left Our Gate Open?}{126}
+\contentsline {subsection}{\numberline {29th}Why Farmers Must Not Become ``Park Keepers"}{128}
+\contentsline {section}{November}{129}
+\contentsline {subsection}{\numberline {5th}Importance of Saving Our Hedges}{130}
+\contentsline {subsection}{\numberline {12th}Our Stock Bull Just Had to Go}{131}
+\contentsline {subsection}{\numberline {19th}A Rotten Lot of Ministers}{133}
+\contentsline {subsection}{\numberline {26th}Clubs Give Guidance}{134}
+\contentsline {section}{December}{136}
+\contentsline {subsection}{\numberline {3rd}Auctions Used to Be Fun}{136}
+\contentsline {subsection}{\numberline {10th}Mushrooms Appeared in November}{138}
+\contentsline {subsection}{\numberline {17th}Threat of Bold Badgers}{139}
+\contentsline {subsection}{\numberline {24th}Memories of Geese and Ducks}{141}
+\contentsline {subsection}{\numberline {31st}Time to Get Rid of Quotas}{142}
+\contentsline {chapter}{2004}{145}
+\contentsline {section}{January}{145}
+\contentsline {subsection}{\numberline {7th}Horrified by Lack of Action}{145}
+\contentsline {subsection}{\numberline {14th}What Shall We Do With Big Cats}{147}
+\contentsline {subsection}{\numberline {21st}Waste of Time and Money}{148}
+\contentsline {subsection}{\numberline {28th}Stupidity of Burial Ban Rules}{149}
+\contentsline {section}{February}{151}
+\contentsline {subsection}{\numberline {4th}Sweet Water From the Spring}{151}
+\contentsline {subsection}{\numberline {11th}Well Done Fischler}{152}
+\contentsline {subsection}{\numberline {18th}Pulling Power of Runaway}{154}
+\contentsline {subsection}{\numberline {25th}Lambing Nearly Over}{156}
+\contentsline {section}{March}{157}
+\contentsline {subsection}{\numberline {3rd}Problems of the ``Good Life"}{157}
+\contentsline {subsection}{\numberline {10th}Meetings Have Changed}{159}
+\contentsline {subsection}{\numberline {17th}Lucky Not to Commute}{160}
+\contentsline {subsection}{\numberline {24th}Old Ties to Down St. Mary}{162}
+\contentsline {subsection}{\numberline {31st}Stitch-up for Hill Farmers}{164}
+\contentsline {section}{April}{165}
+\contentsline {subsection}{\numberline {7th}Happier When I Disagree}{165}
+\contentsline {subsection}{\numberline {14th}Stupidity of Stewardship Regulations}{166}
+\contentsline {subsection}{\numberline {21st}Our Barn Owls Are Back}{168}
+\contentsline {subsection}{\numberline {28th}Last Effort With the Old Forms}{169}
+\contentsline {section}{May}{171}
+\contentsline {subsection}{\numberline {5th}Waking up to a Changing World}{171}
+\contentsline {subsection}{\numberline {12th}Language Barrier and Distance Block}{172}
+\contentsline {subsection}{\numberline {19th}Ploughing as Far as Carlisle}{174}
+\contentsline {subsection}{\numberline {26th}Cows Mobbed a Dying Buzzard}{175}
+\contentsline {section}{June}{177}
+\contentsline {subsection}{\numberline {2nd}High Price of Asbestos}{177}
+\contentsline {subsection}{\numberline {9th}Idiotic Time Limit}{178}
+\contentsline {subsection}{\numberline {16th}Wonderful Hedgerow Flowers}{180}
+\contentsline {subsection}{\numberline {23rd}UKIP Should Rethink}{181}
+\contentsline {subsection}{\numberline {30th}Sheep and Lambs Shorn in a Wind Tunnel}{183}
+\contentsline {section}{July}{183}
+\contentsline {subsection}{\numberline {7th}Harry Sparks a Hunt}{184}
+\contentsline {subsection}{\numberline {14th}Woodfair Was Truly Wonderful}{185}
+\contentsline {subsection}{\numberline {21st}`People Miles' Concern}{187}
+\contentsline {subsection}{\numberline {28th}Beckett's Fuddled Thinking}{188}
+\contentsline {section}{August}{190}
+\contentsline {subsection}{\numberline {4th}Are Forecasts Going Haywire?}{190}
+\contentsline {subsection}{\numberline {11th}DEFRA's Tea Party}{192}
+\contentsline {subsection}{\numberline {18th}Is It Fair to Blame Farmers?}{193}
+\contentsline {subsection}{\numberline {25th}Ambition Fulfilled at Last}{195}
+\contentsline {section}{September}{196}
+\contentsline {subsection}{\numberline {1st}Ignorance That Makes Me Furious}{196}
+\contentsline {subsection}{\numberline {8th}Farmer V Rook Gang}{198}
+\contentsline {subsection}{\numberline {15th}Organic Benefits Beckon}{200}
+\contentsline {subsection}{\numberline {22nd}Is Global Warming True?}{201}
+\contentsline {subsection}{\numberline {29th}Futility of OTMS System}{203}
+\contentsline {section}{October}{204}
+\contentsline {subsection}{\numberline {6th}Beef Event's Success}{204}
+\contentsline {subsection}{\numberline {13th}YFCs Look to Future}{206}
+\contentsline {subsection}{\numberline {27th}Sorry to Lose Fischler}{207}
+\contentsline {section}{November}{209}
+\contentsline {subsection}{\numberline {3rd}November Ground Is in a Soggy State}{209}
+\contentsline {subsection}{\numberline {10th}Morley Knows Better}{211}
+\contentsline {subsection}{\numberline {17th}Problem of New System}{212}
+\contentsline {subsection}{\numberline {24th}Training Days for DEFRA}{214}
+\contentsline {section}{December}{215}
+\contentsline {subsection}{\numberline {1st}Lottery of New Crops}{216}
+\contentsline {subsection}{\numberline {8th}Lore of the Versatile Goose}{217}
+\contentsline {subsection}{\numberline {15th}Brave Choice Speaker}{219}
+\contentsline {subsection}{\numberline {22nd}First Find Your Farm}{220}
+\contentsline {subsection}{\numberline {29th}We Find Our First Holding}{222}
+\contentsline {chapter}{2005}{224}
+\contentsline {section}{January}{224}
+\contentsline {subsection}{\numberline {5th}Haggling for Our Farm}{224}
+\contentsline {subsection}{\numberline {12th}Wish List for 2005}{226}
+\contentsline {subsection}{\numberline {19th}Problems of Plastic Culture}{227}
+\contentsline {subsection}{\numberline {26th}Biofuel Call to Blair}{229}
+\contentsline {section}{February}{230}
+\contentsline {subsection}{\numberline {2nd}Burial Ban Correct}{230}
+\contentsline {subsection}{\numberline {16th}What Is a Spud?}{232}
+\contentsline {subsection}{\numberline {23rd}River Trout Return}{234}
+\contentsline {section}{March}{234}
+\contentsline {subsection}{\numberline {2nd}Icy Chill as Spring Arrives Like a Lion}{235}
+\contentsline {subsection}{\numberline {9th}I Would Not Hesitate to Shoot Badger}{236}
+\contentsline {subsection}{\numberline {16th}Paying the Price of a Visit to Town}{238}
+\contentsline {subsection}{\numberline {23rd}What a Waste of Time}{239}
+\contentsline {subsection}{\numberline {30th}That Buzz of Benchmark}{241}
+\contentsline {section}{April}{242}
+\contentsline {subsection}{\numberline {6th}Did Rabbits Hold the Answer to TB}{242}
+\contentsline {subsection}{\numberline {13th}Wilson Was Surprised}{244}
+\contentsline {subsection}{\numberline {20th}Scandal of Food Waste}{246}
+\contentsline {subsection}{\numberline {27th}Anguish of TB Reaction}{247}
+\contentsline {section}{May}{249}
+\contentsline {subsection}{\numberline {4th}Now, If I Were the Prime Minister\dots }{249}
+\contentsline {subsection}{\numberline {18th}UNPUBLISHED NEXT ARTICLE COVERS SIMILAR CONTENT}{250}
+\contentsline {section}{June}{252}
+\contentsline {subsection}{\numberline {1st}Filling Forms Is Over}{252}
+\contentsline {subsection}{\numberline {8th}Joy of Farm Diaries}{253}
+\contentsline {subsection}{\numberline {15th}Haymaking Before Silaging}{255}
+\contentsline {subsection}{\numberline {22nd}Hassle of TB Tests}{257}
+\contentsline {subsection}{\numberline {29th}Getting in Our Good Hay}{258}
+\contentsline {section}{July}{260}
+\contentsline {subsection}{\numberline {6th}Mapping Out Trees}{260}
+\contentsline {subsection}{\numberline {13th}Woodfair Better Than Ever}{261}
+\contentsline {subsection}{\numberline {20th}Ignorance of Our Premier}{263}
+\contentsline {subsection}{\numberline {27th}Just What Is in Fact a Real Family Farm}{264}
+\contentsline {section}{August}{266}
+\contentsline {subsection}{\numberline {3rd}Memories of Fairs of Old}{266}
+\contentsline {subsection}{\numberline {10th}Lunacy of Stock Scheme}{268}
+\contentsline {subsection}{\numberline {17th}Organic Problems With Charlock}{269}
+\contentsline {subsection}{\numberline {24th}Best of Summer -- So Far}{271}
+\contentsline {subsection}{\numberline {31st}Shut the Gate}{272}
+\contentsline {section}{September}{274}
+\contentsline {subsection}{\numberline {7th}Organic System's Quirks}{274}
+\contentsline {subsection}{\numberline {14th}Where There's Muck}{275}
+\contentsline {subsection}{\numberline {21st}Oxen Shoeing Mystery}{277}
+\contentsline {subsection}{\numberline {28th}Looking Back to 1945}{279}
+\contentsline {section}{October}{280}
+\contentsline {subsection}{\numberline {5th}Am I Really a Churl?}{280}
+\contentsline {subsection}{\numberline {26th}Lack of Calves Profit}{282}
+\contentsline {section}{November}{283}
+\contentsline {subsection}{\numberline {2nd}Special Deals Stink}{283}
+\contentsline {subsection}{\numberline {9th}My Land Looks Better}{285}
+\contentsline {subsection}{\numberline {16th}Delving Into the Past}{286}
+\contentsline {subsection}{\numberline {23rd}DEFRA's Morale Problems}{288}
+\contentsline {subsection}{\numberline {30th}Relief at No Milking}{289}
+\contentsline {section}{December}{291}
+\contentsline {subsection}{\numberline {7th}Fed up With Margaret}{291}
+\contentsline {subsection}{\numberline {14th}Which Sean to Believe?}{292}
+\contentsline {chapter}{2006}{295}
+\contentsline {section}{January}{295}
+\contentsline {subsection}{\numberline {4th}History of a Fireplace}{295}
+\contentsline {subsection}{\numberline {11th}Making Poverty History?}{297}
+\contentsline {subsection}{\numberline {18th}Robin and Zac's Ideas}{298}
+\contentsline {subsection}{\numberline {25th}Lambs Lift My Spirits}{300}
+\contentsline {section}{February}{301}
+\contentsline {subsection}{\numberline {1st}Beckett in My Sights}{302}
+\contentsline {subsection}{\numberline {8th}Are Badgers Sacred Cows?}{303}
+\contentsline {subsection}{\numberline {15th}Great Days of NFU}{305}
+\contentsline {subsection}{\numberline {22nd}Annual Whinge Time}{306}
+\contentsline {section}{March}{308}
+\contentsline {subsection}{\numberline {1st}Hoping for a Time of No News}{308}
+\contentsline {subsection}{\numberline {8th}Unhelpful Information}{309}
+\contentsline {subsection}{\numberline {15th}Muddled Views on Badgers}{311}
+\contentsline {subsection}{\numberline {22nd}Peck of March Dust}{313}
+\contentsline {subsection}{\numberline {29th}Time for a Tough Approach}{314}
+\contentsline {section}{April}{316}
+\contentsline {subsection}{\numberline {5th}Rubbish About Payments}{316}
+\contentsline {subsection}{\numberline {19th}What Is Natural England?}{317}
+\contentsline {subsection}{\numberline {26th}Problems of Going Organic}{319}
+\contentsline {section}{May}{320}
+\contentsline {subsection}{\numberline {3rd}When the Taps Run Dry}{321}
+\contentsline {subsection}{\numberline {10th}What a Very Real Waste}{322}
+\contentsline {subsection}{\numberline {24th}Nasty Shock Averted}{324}
+\contentsline {subsection}{\numberline {31st}Old Cow Welfare Lunacy}{325}
+\contentsline {section}{June}{327}
+\contentsline {subsection}{\numberline {7th}Flaming June at Long Last}{327}
+\contentsline {subsection}{\numberline {14th}No More Daisies in Fields}{328}
+\contentsline {subsection}{\numberline {21st}New Rules Hard to Swallow}{330}
+\contentsline {subsection}{\numberline {28th}Redundant at Sheep Shearing}{331}
+\contentsline {section}{July}{333}
+\contentsline {subsection}{\numberline {5th}Hot Air of Doom Mongers}{333}
+\contentsline {subsection}{\numberline {12th}Porcine Foresters}{335}
+\contentsline {subsection}{\numberline {19th}Bunkum About Badgers}{336}
+\contentsline {section}{August}{338}
+\contentsline {subsection}{\numberline {2nd}Miliband Must Sort Out DEFRA}{338}
+\contentsline {subsection}{\numberline {9th}Excellent Flavour of Beef}{339}
+\contentsline {subsection}{\numberline {16th}Old Boy Auger Problem}{341}
+\contentsline {subsection}{\numberline {23rd}Road Safety Matters}{343}
+\contentsline {subsection}{\numberline {30th}Plenty to Beef About}{344}
+\contentsline {section}{September}{345}
+\contentsline {subsection}{\numberline {6th}The Age of Kale Recalled}{346}
+\contentsline {subsection}{\numberline {13th}Tory's Badger Blues}{347}
+\contentsline {subsection}{\numberline {20th}Fun Way to Pick Apples}{349}
+\contentsline {subsection}{\numberline {27th}What Is DEFRA Planning?}{350}
+\contentsline {section}{October}{352}
+\contentsline {subsection}{\numberline {4th}On Going Dairy Problems}{352}
+\contentsline {subsection}{\numberline {11th}Farming Insects and Birds}{353}
+\contentsline {subsection}{\numberline {18th}New Rule Would Finish Us}{355}
+\contentsline {subsection}{\numberline {25th}Calving Amid the Thunder}{356}
+\contentsline {section}{November}{358}
+\contentsline {subsection}{\numberline {1st}Officials Change the Rules}{358}
+\contentsline {subsection}{\numberline {8th}Spending Green Tax Cash}{359}
+\contentsline {subsection}{\numberline {15th}Cornish Pasties Origins}{361}
+\contentsline {subsection}{\numberline {22nd}Moment of Truth Is Near}{362}
+\contentsline {subsection}{\numberline {29th}Old Sow's Maternal Instincts}{364}
+\contentsline {section}{December}{365}
+\contentsline {subsection}{\numberline {6th}Case for Mixed Farming}{366}
+\contentsline {subsection}{\numberline {13th}Too Many Weather Experts}{367}
+\contentsline {subsection}{\numberline {20th}Longer Days on the Way}{369}
+\contentsline {chapter}{2007}{371}
+\contentsline {section}{January}{371}
+\contentsline {subsection}{\numberline {3rd}Unfazed by Minor Niggles}{371}
+\contentsline {subsection}{\numberline {10th}A Tale of Mice and Men}{373}
+\contentsline {subsection}{\numberline {17th}Scheme Is Bound to Founder}{374}
+\contentsline {subsection}{\numberline {24th}Why I Like the Big Multiples}{376}
+\contentsline {subsection}{\numberline {31st}Amazing Advances in IT}{377}
+\contentsline {section}{February}{379}
+\contentsline {subsection}{\numberline {7th}Keeping Co-ops Focused}{379}
+\contentsline {subsection}{\numberline {14th}Harvesting Trees Each Century}{380}
+\contentsline {subsection}{\numberline {21st}Learning From the Past}{382}
+\contentsline {subsection}{\numberline {28th}Fruitless Foray on the Internet}{384}
+\contentsline {section}{March}{385}
+\contentsline {subsection}{\numberline {7th}Enough Water This Summer}{385}
+\contentsline {subsection}{\numberline {14th}Challenge of Cheap Imports}{387}
+\contentsline {subsection}{\numberline {21st}Syringes Worked a Wonder}{388}
+\contentsline {subsection}{\numberline {28th}Why Cut the Front Lawn}{390}
+\contentsline {section}{April}{391}
+\contentsline {subsection}{\numberline {4th}Cheap and Affordable}{391}
+\contentsline {subsection}{\numberline {11th}Why All This Dairy Elation?}{393}
+\contentsline {subsection}{\numberline {18th}Answers Please in English}{394}
+\contentsline {subsection}{\numberline {25th}Driest April for 69 Years}{396}
+\contentsline {section}{May}{397}
+\contentsline {subsection}{\numberline {2nd}New Law on Use of Byways}{397}
+\contentsline {subsection}{\numberline {9th}Return of Myxi to Rabbits}{399}
+\contentsline {subsection}{\numberline {23rd}Signed up as a New Luddite}{400}
+\contentsline {subsection}{\numberline {30th}Don't Ask Gordon Out West}{402}
+\contentsline {section}{June}{403}
+\contentsline {subsection}{\numberline {6th}Darfur Challenge for Jamie Oliver}{403}
+\contentsline {subsection}{\numberline {13th}Sort Out Diseases Gordon}{405}
+\contentsline {subsection}{\numberline {20th}Delight at Fledging Owl Flight}{407}
+\contentsline {subsection}{\numberline {27th}Bourne's Mind Closed}{408}
+\contentsline {section}{July}{410}
+\contentsline {subsection}{\numberline {4th}Keep a Weather Eye Open}{410}
+\contentsline {subsection}{\numberline {11th}Blackbird's Songs for RABI}{411}
+\contentsline {subsection}{\numberline {18th}Is Benn the Right Person}{413}
+\contentsline {subsection}{\numberline {25th}CPRE's Wrong Leader}{414}
+\contentsline {section}{August}{416}
+\contentsline {subsection}{\numberline {1st}Still Time to Escape Disaster}{416}
+\contentsline {subsection}{\numberline {8th}Revealing FMD's Disaster}{418}
+\contentsline {subsection}{\numberline {15th}Smaller Farms to Suffer}{419}
+\contentsline {subsection}{\numberline {22nd}History of Our Buildings}{421}
+\contentsline {subsection}{\numberline {29th}``Slurry Sunday"}{423}
+\contentsline {section}{September}{424}
+\contentsline {subsection}{\numberline {5th}Insufficient Straw for Bedding}{424}
+\contentsline {subsection}{\numberline {12th}Irritation Over More Red Tape}{426}
+\contentsline {subsection}{\numberline {19th}Which Know-all to Believe?}{427}
+\contentsline {subsection}{\numberline {26th}Lunacy of Livestock Burial Ban}{429}
+\contentsline {section}{October}{430}
+\contentsline {subsection}{\numberline {3rd}Daft Ideas From DEFRA}{430}
+\contentsline {subsection}{\numberline {24th}Traffic Queuing Blues}{432}
+\contentsline {subsection}{\numberline {31st}Massive Cull Won't Happen}{433}
+\contentsline {section}{November}{435}
+\contentsline {subsection}{\numberline {7th}No Going Back for Wildlife}{435}
+\contentsline {subsection}{\numberline {14th}CAP Is Just Not Common}{437}
+\contentsline {subsection}{\numberline {21st}Optimism on Meat Prices}{438}
+\contentsline {subsection}{\numberline {28th}Anomolies of Organic Regulations}{440}
+\contentsline {section}{December}{441}
+\contentsline {subsection}{\numberline {5th}Dilemma Over Our Old Cows}{441}
+\contentsline {subsection}{\numberline {12th}Multiples Correctly Penalised}{443}
+\contentsline {subsection}{\numberline {19th}Lottery Over Farm Diseases}{445}
+\contentsline {chapter}{2008}{447}
+\contentsline {section}{January}{447}
+\contentsline {subsection}{\numberline {2nd}We Need Farming R\&D}{447}
+\contentsline {subsection}{\numberline {9th}Taking Care on Poultry}{449}
+\contentsline {subsection}{\numberline {16th}Exhaust Used as a Fertiliser}{450}
+\contentsline {subsection}{\numberline {23rd}Bluetongue Threat Explained}{452}
+\contentsline {subsection}{\numberline {30th}Postal Ballot for President}{453}
+\contentsline {section}{February}{455}
+\contentsline {subsection}{\numberline {6th}Birds to Take Priority}{455}
+\contentsline {subsection}{\numberline {13th}History Repeats Itself}{456}
+\contentsline {subsection}{\numberline {20th}Get to Grips With Disease}{458}
+\contentsline {subsection}{\numberline {27th}Driven by Public Opinion}{459}
+\contentsline {section}{March}{461}
+\contentsline {subsection}{\numberline {5th}How Can Youngsters Get Going?}{461}
+\contentsline {subsection}{\numberline {12th}Threat to Smaller Abattoirs}{462}
+\contentsline {subsection}{\numberline {19th}Pigmen Need Support}{464}
+\contentsline {subsection}{\numberline {26th}Paying Organic Prices}{466}
+\contentsline {section}{April}{467}
+\contentsline {subsection}{\numberline {2nd}Giving Lisbon a Chance}{467}
+\contentsline {subsection}{\numberline {9th}Biofuels Debate Rages on}{469}
+\contentsline {subsection}{\numberline {16th}Should We Be Growing to Feed Humans or Pets?}{470}
+\contentsline {subsection}{\numberline {23rd}Vegetarian Claims Are Erroneous}{472}
+\contentsline {subsection}{\numberline {30th}Flowers Without Directives}{473}
+\contentsline {section}{May}{475}
+\contentsline {subsection}{\numberline {7th}Time Now to Dump Minister}{475}
+\contentsline {subsection}{\numberline {21st}Charlock Problems in Triticale}{476}
+\contentsline {subsection}{\numberline {28th}French Pay More for Diesel}{478}
+\contentsline {section}{June}{479}
+\contentsline {subsection}{\numberline {11th}Profit of £100 in a Good Year}{479}
+\contentsline {subsection}{\numberline {18th}Why Plant a Field of Chamomile?}{481}
+\contentsline {subsection}{\numberline {25th}Missed Co-op Chances}{482}
+\contentsline {section}{July}{484}
+\contentsline {subsection}{\numberline {2nd}Risk of Exporting Cruelty}{484}
+\contentsline {subsection}{\numberline {9th}Time to Return Swill Feed?}{486}
+\contentsline {subsection}{\numberline {16th}Sunshine Needed to Make Hay}{487}
+\contentsline {subsection}{\numberline {23rd}NFU Centenary History Is Essential Reading}{489}
+\contentsline {subsection}{\numberline {30th}Haymaking Is a Whole Lot Easier}{491}
+\contentsline {section}{August}{493}
+\contentsline {subsection}{\numberline {6th}DEFRA Red Tape Ruins Farming}{493}
+\contentsline {subsection}{\numberline {13th}Quandary Over Older Sucklers}{494}
+\contentsline {subsection}{\numberline {20th}Headage Basis for Cost Share}{496}
+\contentsline {subsection}{\numberline {27th}NFU Can Now Make Amends}{497}
+\contentsline {section}{September}{499}
+\contentsline {subsection}{\numberline {3rd}Poor Forecast Was Blessing in Disguise}{499}
+\contentsline {subsection}{\numberline {10th}Carbon Horse Feathers}{501}
+\contentsline {subsection}{\numberline {24th}Banking on Change Ahead}{502}
+\contentsline {section}{October}{504}
+\contentsline {subsection}{\numberline {1st}Lunacy of DEFRA's Red Tape}{504}
+\contentsline {subsection}{\numberline {8th}Why Are We Left With Hilary Benn?}{505}
+\contentsline {subsection}{\numberline {22nd}Disease Vaccine Nonsense}{507}
+\contentsline {subsection}{\numberline {29th}The Woes of Slow E-mails}{508}
+\contentsline {section}{November}{510}
+\contentsline {subsection}{\numberline {5th}Measuring Carbon Footprints}{510}
+\contentsline {subsection}{\numberline {12th}Future of Organics in Doubt?}{512}
+\contentsline {subsection}{\numberline {19th}Moving Over for the Young}{513}
+\contentsline {subsection}{\numberline {26th}Ignorance on Animal Welfare}{515}
+\contentsline {section}{December}{516}
+\contentsline {subsection}{\numberline {3rd}Why Does DEFRA Veto Applications?}{516}
+\contentsline {subsection}{\numberline {10th}Bank Rate Returns to 2 Per Cent}{518}
+\contentsline {subsection}{\numberline {17th}Considering Computer Predictions}{520}
+\contentsline {subsection}{\numberline {31st}Will the Big Freeze of 1963 Be Repeated?}{521}
+\contentsline {chapter}{2009}{524}
+\contentsline {section}{January}{524}
+\contentsline {subsection}{\numberline {7th}Jumping One Hoop Too Far?}{524}
+\contentsline {subsection}{\numberline {14th}Problems of Farming Popularity}{526}
+\contentsline {subsection}{\numberline {21st}New Life for Oldest Hedgerow}{527}
+\contentsline {subsection}{\numberline {28th}No More Rewards to Leaders}{529}
+\contentsline {section}{February}{530}
+\contentsline {subsection}{\numberline {4th}Time to Bid Benn Goodbye}{530}
+\contentsline {subsection}{\numberline {11th}This Most Unpleasant Weather}{532}
+\contentsline {subsection}{\numberline {18th}Banker's Clear View Refreshing}{534}
+\contentsline {subsection}{\numberline {25th}Benn Gets It Wrong Yet Again}{535}
+\contentsline {section}{March}{537}
+\contentsline {subsection}{\numberline {4th}Benefits of Farming in the 1970s}{537}
+\contentsline {subsection}{\numberline {11th}How We Rebuilt Our Farm}{538}
+\contentsline {subsection}{\numberline {18th}Anomalies of Organic Culture}{540}
+\contentsline {subsection}{\numberline {25th}Vaccinate Cattle for Bovine TB}{541}
+\contentsline {section}{April}{543}
+\contentsline {subsection}{\numberline {1st}Aiming to Boost Bird Numbers}{543}
+\contentsline {subsection}{\numberline {8th}New Rules Will Lack the Time}{545}
+\contentsline {subsection}{\numberline {15th}Families Still Run Our Farms}{546}
+\contentsline {subsection}{\numberline {22nd}New Life for an Old Plough}{548}
+\contentsline {section}{May}{549}
+\contentsline {subsection}{\numberline {6th}New PC to Defeat Crime Wave}{549}
+\contentsline {subsection}{\numberline {13th}Time for Beckett to Apologise}{551}
+\contentsline {subsection}{\numberline {20th}Woes of Organic Farming}{552}
+\contentsline {subsection}{\numberline {27th}Jack's Day Out at the Show}{554}
+\contentsline {section}{June}{555}
+\contentsline {subsection}{\numberline {3rd}What's the Value of Four Swarms of Honey Bees}{555}
+\contentsline {subsection}{\numberline {10th}Sadness at Minister's Departure}{557}
+\contentsline {subsection}{\numberline {17th}Are Grey Squirrels Villains?}{558}
+\contentsline {subsection}{\numberline {24th}Children Must Stay on Farms}{560}
+\contentsline {section}{July}{561}
+\contentsline {subsection}{\numberline {1st}Weather Forecast Unreliable}{561}
+\contentsline {subsection}{\numberline {8th}Porkers Deserve a Better Life}{563}
+\contentsline {subsection}{\numberline {15th}Concerns on Flood Plain Plan}{564}
+\contentsline {subsection}{\numberline {22nd}Two-faced Claim on Badgers}{566}
+\contentsline {subsection}{\numberline {29th}Hopes for Harvesting Conditions}{567}
+\contentsline {section}{August}{569}
+\contentsline {subsection}{\numberline {19th}Beatrix Would Be Shocked}{569}
+\contentsline {subsection}{\numberline {26th}Bovine TB and FCN Report}{570}

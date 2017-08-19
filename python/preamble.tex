@@ -1,19 +1,24 @@
-
 \documentclass[10pt, showtrims]{memoir}
 
 \chapterstyle{bianchi}
+% Need a bit more space between lines for readability
 \OnehalfSpacing
+
+% Allow chapters to start on either odd or even pages
 \openany
 
 % CONTENTS PAGE SETUP
 
-\usepackage{titletoc}
+%\usepackage{titletoc}
 
-\dottedcontents{section}[1.4in]{}{1.2in}{10pt}
-\dottedcontents{subsection}[1.4in]{}{1.2in}{10pt}
-\renewcommand{\chapternumberline}[1]{}
-\setsecnumdepth{section}
+%\dottedcontents{section}[1.4in]{}{1.2in}{10pt}
+%\dottedcontents{subsection}[1.8in]{}{1.6in}{10pt}
+%\renewcommand{\chapternumberline}[1]{}
+%\setsecnumdepth{section}
 
+% Show everydown down to subsections ( level 2) in the ToC
+\setcounter{tocdepth}{2}
+\setsecnumdepth{subsection}
 
 % PAPER SIZE SETUP
 
@@ -45,10 +50,12 @@
 \pagestyle{mystyle}
 
 
+
+% DEFINE CHAPTER STYLE
+
+% command for drawing ruled line around some words
 \newcommand*\ruleline[1]{\par\noindent\raisebox{0.6ex}{\makebox[\linewidth]{\hrulefill\hspace{1ex}\raisebox{-.6ex}{#1}\hspace{1ex}\hrulefill}}}
 
-
-% Define chapter Style
 \makechapterstyle{mychapter}{
   	\chapterstyle{default}
 	\renewcommand*{\printchaptername}{}
@@ -60,23 +67,32 @@
    	\renewcommand*{\chaptitlefont}{\large\centering}
 
   	\renewcommand*{\chapterheadstart}{
-    		 \vskip\onelineskip  \hrule\vskip\onelineskip   
+    		 \vskip\onelineskip
 	}
   	\renewcommand{\printchaptertitle}[1]{
   	  	\fontsize{30}{60}\selectfont \textbf{\ruleline{##1}\quad}
 	}
   	\renewcommand*{\afterchaptertitle}{
-   		\vskip\onelineskip  \vskip\onelineskip
+   		\vskip\onelineskip  % DONT UNCOMMENT THIS AS IT BREAKS THE TABLE OF CONTENTS WTF?!??!
  	}
 }
-
-
 \chapterstyle{mychapter}
+
+
+
+% CUSTOM SECTION COMMANDS
+
 \usepackage{xparse}
-\DeclareDocumentCommand{\column}{mmm}{
-	\renewcommand{\thesection}{#1}
-	\subsection[#2]{#3}
+\DeclareDocumentCommand{\column}{mm}{
+	\renewcommand{\thesubsection}{#1}
+	\subsection{#2}
 }
-\setcounter{tocdepth}{2}
+
+\newcommand{\monthsec}[1]{
+  \refstepcounter{section}
+  \addcontentsline{toc}{section}{#1}
+  \markright{#1}
+  }
+
 
 \begin{document}

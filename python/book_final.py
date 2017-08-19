@@ -24,7 +24,7 @@ class book(object):
         # self.addLine("\\begin{KeepFromToc}")
         # self.addLine("\\chapterstyle{bringhurst}")
         self.addLine("\\tableofcontents*")
-        self.addLine("\setsecnumdepth{section}")
+        # self.addLine("\setsecnumdepth{section}")
 
 
         # self.addLine("\\end{KeepFromToc}")
@@ -66,8 +66,9 @@ class book(object):
         self.addLine("\\addcontentsline{toc}{chapter}{%s}" % title)
 
     def addSection(self, title):
-        self.addLine("\\section*[%s]{%s}" % (title,title))
-        self.addLine("\\addcontentsline{toc}{section}{%s}" % title)
+        self.addLine("\\monthsec{%s}" % title)
+        # self.addLine("\\section*{%s}" % (title))
+        # self.addLine("\\addcontentsline{toc}{section}{%s}" % title)
 
     def addIntro(self, title, text):
         self.addChapter(title)
@@ -77,10 +78,8 @@ class book(object):
         print("Adding column {}".format(title))
         self.addLine("\\Needspace{10\\baselineskip}")
         title = titleCase(title)
-        # date_title = dtStylish(date, "%B {th}")+" \quad "+title
-        date_title = title
-        date = dtStylish(date, "%B {th}")
-        self.addLine("\column{%s}{%s}{%s}" % (date, title, date_title))
+        date = dtStylish(date, "{th}")
+        self.addLine("\column{%s}{%s}" % (date, title))
         self.addLine(stripDateAtStart(text))
 
 

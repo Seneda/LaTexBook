@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.14)  19 AUG 2017 18:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.14)  19 AUG 2017 23:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -335,10 +335,6 @@ Package verse [2008/07/23] emulated by memoir.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titletoc.sty
-Package: titletoc 2011/12/15 v1.6 TOC entries
-\ttl@leftsep=\dimen147
-)
 
 ******************************************************
 Stock height and width: 680.02086pt by 458.08936pt
@@ -399,12 +395,12 @@ L3 Module: l3file 2017/02/20 v6964 L3 File and I/O operations
 \l__iow_one_indent_int=\count146
 \l__iow_indent_int=\count147
 L3 Module: l3skip 2017/02/20 v6968 L3 Dimensions and skips
-\c_zero_dim=\dimen148
-\c_max_dim=\dimen149
-\l_tmpa_dim=\dimen150
-\l_tmpb_dim=\dimen151
-\g_tmpa_dim=\dimen152
-\g_tmpb_dim=\dimen153
+\c_zero_dim=\dimen147
+\c_max_dim=\dimen148
+\l_tmpa_dim=\dimen149
+\l_tmpb_dim=\dimen150
+\g_tmpa_dim=\dimen151
+\g_tmpb_dim=\dimen152
 \c_zero_skip=\skip185
 \c_max_skip=\skip186
 \l_tmpa_skip=\skip187
@@ -452,13 +448,13 @@ L3 Module: l3box 2017/02/17 v6943 L3 Experimental boxes
 \g_tmpb_box=\box33
 L3 Module: l3coffins 2017/02/12 v6906 L3 Coffin code layer
 \l__coffin_internal_box=\box34
-\l__coffin_internal_dim=\dimen154
-\l__coffin_offset_x_dim=\dimen155
-\l__coffin_offset_y_dim=\dimen156
-\l__coffin_x_dim=\dimen157
-\l__coffin_y_dim=\dimen158
-\l__coffin_x_prime_dim=\dimen159
-\l__coffin_y_prime_dim=\dimen160
+\l__coffin_internal_dim=\dimen153
+\l__coffin_offset_x_dim=\dimen154
+\l__coffin_offset_y_dim=\dimen155
+\l__coffin_x_dim=\dimen156
+\l__coffin_y_dim=\dimen157
+\l__coffin_x_prime_dim=\dimen158
+\l__coffin_y_prime_dim=\dimen159
 \c_empty_coffin=\box35
 \l__coffin_aligned_coffin=\box36
 \l__coffin_aligned_internal_coffin=\box37
@@ -467,29 +463,29 @@ L3 Module: l3coffins 2017/02/12 v6906 L3 Coffin code layer
 \l__coffin_display_coffin=\box40
 \l__coffin_display_coord_coffin=\box41
 \l__coffin_display_pole_coffin=\box42
-\l__coffin_display_offset_dim=\dimen161
-\l__coffin_display_x_dim=\dimen162
-\l__coffin_display_y_dim=\dimen163
+\l__coffin_display_offset_dim=\dimen160
+\l__coffin_display_x_dim=\dimen161
+\l__coffin_display_y_dim=\dimen162
 L3 Module: l3color 2016/12/28 v6805 L3 Experimental color support
 L3 Module: l3sys 2017/02/22 v6976 L3 Experimental system/runtime functions
 L3 Module: l3deprecation 2017/02/20 v6966 L3 Deprecation errors
 L3 Module: l3candidates 2017/02/20 v6967 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen164
-\l__box_bottom_dim=\dimen165
-\l__box_left_dim=\dimen166
-\l__box_right_dim=\dimen167
-\l__box_top_new_dim=\dimen168
-\l__box_bottom_new_dim=\dimen169
-\l__box_left_new_dim=\dimen170
-\l__box_right_new_dim=\dimen171
+\l__box_top_dim=\dimen163
+\l__box_bottom_dim=\dimen164
+\l__box_left_dim=\dimen165
+\l__box_right_dim=\dimen166
+\l__box_top_new_dim=\dimen167
+\l__box_bottom_new_dim=\dimen168
+\l__box_left_new_dim=\dimen169
+\l__box_right_new_dim=\dimen170
 \l__box_internal_box=\box43
-\l__coffin_bounding_shift_dim=\dimen172
-\l__coffin_left_corner_dim=\dimen173
-\l__coffin_right_corner_dim=\dimen174
-\l__coffin_bottom_corner_dim=\dimen175
-\l__coffin_top_corner_dim=\dimen176
-\l__coffin_scaled_total_height_dim=\dimen177
-\l__coffin_scaled_width_dim=\dimen178
+\l__coffin_bounding_shift_dim=\dimen171
+\l__coffin_left_corner_dim=\dimen172
+\l__coffin_right_corner_dim=\dimen173
+\l__coffin_bottom_corner_dim=\dimen174
+\l__coffin_top_corner_dim=\dimen175
+\l__coffin_scaled_total_height_dim=\dimen176
+\l__coffin_scaled_width_dim=\dimen177
 L3 Module: l3luatex 2017/02/18 v6953 L3 Experimental LuaTeX-specific functions
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
@@ -507,282 +503,295 @@ Package: xparse 2017/03/11 v6988 L3 Experimental document command parser
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \column with sig. 'mm' on line 70.
+. Defining command \column with sig. 'mm' on line 90.
 .................................................
 
 (./book.aux)
 \openout1 = `book.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-
- []
-
-(./book.toc
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+ (./book.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
  [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \vbox (badness 6001) has occurred while \output is active []
-
- [2]
-Overfull \hbox (1.74986pt too wide) detected at line 76
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (1.74986pt too wide) detected at line 94
  \OT1/cmr/bx/n/10 143
  []
 
-[3]
-Overfull \hbox (1.74986pt too wide) detected at line 128
+[3] [4]
+Overfull \hbox (1.74986pt too wide) detected at line 158
  \OT1/cmr/bx/n/10 222
  []
 
-
-Underfull \vbox (badness 8113) has occurred while \output is active []
-
- [4]
-Overfull \hbox (1.74986pt too wide) detected at line 174
+[5]
+Overfull \hbox (1.74986pt too wide) detected at line 216
  \OT1/cmr/bx/n/10 293
  []
 
-[5]
-Underfull \vbox (badness 6001) has occurred while \output is active []
-
- [6]
-Overfull \hbox (1.74986pt too wide) detected at line 223
+[6] [7]
+Overfull \hbox (1.74986pt too wide) detected at line 277
  \OT1/cmr/bx/n/10 369
  []
 
-[7]
-Overfull \hbox (1.74986pt too wide) detected at line 272
+[8] [9]
+Overfull \hbox (1.74986pt too wide) detected at line 338
  \OT1/cmr/bx/n/10 445
  []
 
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-[8]
-Overfull \hbox (1.74986pt too wide) detected at line 321
+[10]
+Overfull \hbox (1.74986pt too wide) detected at line 399
  \OT1/cmr/bx/n/10 522
  []
 
-[9]) [10] [11
+[11]) [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13
 
 ]
-Underfull \vbox (badness 1112) has occurred while \output is active []
+[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
-[13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27]
-[28] [29] [30] [31]
+ [25]
+[26] [27] [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+[30] [31] [32] [33]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 
-Overfull \hbox (1.2229pt too wide) in paragraph at lines 226--227
+Overfull \hbox (1.2229pt too wide) in paragraph at lines 257--258
 []\OT1/cmr/m/n/10 After Wash-ing-ton, we jour-neyed south through Vir-ginia, st
 ay-ing at Williams-
  []
 
-[32] [33]
+[34] [35]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-[47] [48] [49
 
-] [50] [51] [52] [53]
-Overfull \hbox (3.61174pt too wide) in paragraph at lines 432--433
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [36]
+[37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51
+
+]
+[52] [53] [54] [55]
+Overfull \hbox (3.61174pt too wide) in paragraph at lines 466--467
 []\OT1/cmr/m/n/10 The busi-ness even-tu-ally foundered, ow-ing farmer mem-bers 
 mil-lions of pounds.
  []
 
-[54] [55] [56] [57]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [58] [59] [60] [61]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [62] [63] [64] [65] [66] [67] [68]
+[56] [57] [58]
+Underfull \vbox (badness 2653) has occurred while \output is active []
+
+ [59]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 
-[69] [70] [71] [72] [73] [74] [75]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [76] [77] [78] [79] [80] [81] [82] [83]
-[84] [85] [86] [87] [88] [89]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [90] [91] [92] [93] [94] [95] [96]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [97] [98]
-[99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
-[124] [125] [126] [127] [128] [129] [130] [131] [132] [133]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [134] [135]
-[136] [137] [138] [139] [140] [141] [142] [143
+[60] [61] [62]
+Underfull \vbox (badness 1082) has occurred while \output is active []
 
-] [144] [145] [146] [147]
+ [63]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 
-[148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159]
-[160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171]
-[172] [173] [174]
+[64] [65] [66] [67] [68] [69] [70]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [175] [176] [177] [178] [179] [180] [181] [182] [183]
-[184] [185] [186] [187] [188]
+ [71] [72] [73]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [74]
+[75] [76] [77]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89]
+[90] [91]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [92] [93] [94] [95] [96] [97] [98]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [99] [100] [101]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [102]
+[103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
+[115]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [116] [117]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [118]
+[119] [120] [121] [122] [123] [124]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [125]
+[126] [127] [128] [129]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [130]
+[131] [132]
+Underfull \vbox (badness 2653) has occurred while \output is active []
+
+ [133]
+[134] [135]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [136] [137] [138] [139] [140]
+Underfull \vbox (badness 2653) has occurred while \output is active []
+
+ [141]
+[142] [143] [144]
+Underfull \vbox (badness 1502) has occurred while \output is active []
+
+ [145
+
+]
+[146]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [147]
+[148] [149]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [150] [151] [152] [153] [154] [155]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [156]
+[157] [158] [159] [160] [161] [162] [163]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [164]
+[165] [166] [167]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [168]
+[169] [170] [171] [172] [173] [174] [175] [176]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [177] [178] [179] [180]
+[181] [182] [183]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [184]
+[185] [186] [187] [188] [189] [190]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ­ in font cmr10!
- [189] [190]
+ [191]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [192]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [191] [192] [193] [194] [195]
-[196] [197] [198] [199] [200]
+
+[193] [194] [195] [196] [197] [198] [199] [200] [201] [202]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [201] [202] [203] [204] [205] [206] [207]
-[208] [209] [210]
+ [203] [204]
+[205] [206] [207] [208] [209] [210] [211] [212]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [211] [212] [213]
+ [213] [214] [215]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [214] [215] [216] [217] [218] [219]
+ [216]
+[217] [218]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [219]
+[220] [221]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
+ [222] [223] [224
 
-[220] [221] [222
+] [225] [226] [227] [228] [229]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [230]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [231]
+[232] [233] [234]
+Underfull \vbox (badness 1082) has occurred while \output is active []
 
-] [223] [224] [225] [226] [227]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [228]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [229] [230] [231]
-[232] [233] [234] [235]
+ [235]
+[236] [237]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [236]
+ [238]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [237]
+ [239]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [238] [239]
+ [240] [241]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [240] [241] [242] [243]
-[244] [245] [246] [247] [248]
+ [242] [243] [244] [245]
+Underfull \vbox (badness 1082) has occurred while \output is active []
 
-Class memoir Warning: The material used in the headers is too large
-(24.0pt) for the given head height (12.0pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 2260.
-
-
-Overfull \vbox (12.0pt too high) has occurred while \output is active []
-
- [249]
-[250]
-Overfull \hbox (2.47163pt too wide) in paragraph at lines 2274--2275
+ [246]
+[247] [248] [249] [250] [251] [252]
+Overfull \hbox (2.47163pt too wide) in paragraph at lines 2337--2338
 []\OT1/cmr/m/n/10 Already I see there are com-ments ap-pear-ing in the broad sh
 eets that landown-
  []
 
-[251] [252]
+[253]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [253] [254]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [255] [256] [257] [258]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [259] [260] [261] [262]
-[263] [264] [265]
+ [254] [255] [256]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
+ [257] [258] [259] [260]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [266]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [267] [268] [269] [270] [271] [272] [273] [274]
-[275] [276]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [277]
+ [261] [262] [263] [264]
+[265] [266] [267]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
@@ -801,81 +810,134 @@ Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
+ [268]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [278] [279] [280] [281]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [282] [283] [284] [285] [286]
-[287] [288] [289] [290] [291] [292] [293
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [269] [270] [271] [272] [273] [274] [275] [276]
+[277] [278]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [279]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [280] [281] [282] [283]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [284] [285] [286] [287] [288]
+[289] [290] [291] [292] [293] [294] [295
 
 ]
-Overfull \hbox (1.8618pt too wide) in paragraph at lines 2697--2698
+Overfull \hbox (1.8618pt too wide) in paragraph at lines 2767--2768
 \OT1/cmr/m/n/10 born piglets, fat-ten-ing on scraps for the fes-tive sea-son), 
 poul-try, the odd moorhen
  []
 
+[296]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no § in font cmr10!
-[294] [295] [296] [297] [298] [299] [300] [301] [302]
+ [297] [298] [299] [300] [301]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [302]
+[303] [304] [305]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
- [303] [304] [305]
-[306] [307] [308] [309] [310] [311] [312] [313] [314] [315]
-Overfull \hbox (7.13841pt too wide) in paragraph at lines 2924--2925
+ [306] [307] [308] [309] [310] [311] [312]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [313]
+[314] [315] [316] [317]
+Overfull \hbox (7.13841pt too wide) in paragraph at lines 2997--2998
 []\OT1/cmr/m/n/10 A very good ex-am-ple of this is the cur-rent man-age-ment of
  farm-land hedgerows.
  []
 
 
-Overfull \hbox (1.91718pt too wide) in paragraph at lines 2930--2931
+Overfull \hbox (1.91718pt too wide) in paragraph at lines 3003--3004
 []\OT1/cmr/m/n/10 We are cur-rently halfway through a ten-year gov-ern-ment ste
 w-ard-ship scheme,
  []
 
-[316] [317] [318] [319] [320] [321] [322]
+[318] [319] [320] [321] [322] [323] [324]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [325]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [326] [327] [328] [329]
+[330] [331] [332] [333] [334] [335] [336] [337] [338]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [323] [324] [325] [326] [327]
-[328] [329] [330] [331] [332] [333] [334] [335] [336]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [337] [338] [339]
-[340] [341] [342] [343] [344] [345] [346] [347] [348] [349] [350] [351]
-[352] [353] [354] [355] [356] [357] [358] [359] [360] [361] [362] [363]
-[364] [365] [366] [367] [368] [369
+ [339] [340] [341]
+[342] [343] [344] [345] [346] [347] [348] [349] [350] [351] [352] [353]
+[354] [355] [356] [357] [358] [359] [360] [361] [362] [363] [364] [365]
+[366] [367] [368]
+Underfull \vbox (badness 1082) has occurred while \output is active []
 
-] [370] [371] [372] [373] [374] [375]
-[376] [377] [378]
-Overfull \hbox (2.306pt too wide) in paragraph at lines 3597--3598
+ [369]
+[370] [371
+
+] [372] [373] [374] [375] [376] [377] [378] [379] [380]
+Overfull \hbox (2.306pt too wide) in paragraph at lines 3680--3681
 []\OT1/cmr/m/n/10 There is one piece of hard ev-i-dence how-ever, which does no
 t rely on computer-
  []
 
-[379] [380] [381]
+[381] [382] [383] [384]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [382] [383] [384] [385] [386] [387] [388]
-Overfull \hbox (1.5005pt too wide) in paragraph at lines 3710--3711
+ [385] [386] [387] [388] [389] [390] [391]
+Overfull \hbox (1.5005pt too wide) in paragraph at lines 3795--3796
 []\OT1/cmr/m/n/10 The speak-ers for the two ma-jor re-tail-ers, Tesco and Mc-Do
 n-ald's, also adopted
  []
 
-[389] [390] [391] [392] [393] [394] [395] [396] [397] [398] [399]
+[392]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [393]
+[394] [395] [396] [397] [398] [399] [400] [401]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [400]
-[401]
+ [402] [403]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
@@ -886,182 +948,213 @@ Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
+ [404]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [402] [403] [404] [405] [406] [407] [408] [409]
+ [405]
+[406]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [407]
+[408] [409] [410] [411]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [410] [411] [412]
-[413] [414] [415] [416]
+ [412] [413] [414] [415] [416] [417]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [418]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [417]
-Overfull \hbox (7.05624pt too wide) in paragraph at lines 3986--3987
+
+[419]
+Overfull \hbox (7.05624pt too wide) in paragraph at lines 4075--4076
 \OT1/cmr/m/n/10 vaccine-producing com-pany at Pir-bright, by a se-nior em-ploye
 e, Dun-can Fawthrop,
  []
 
-[418] [419] [420] [421] [422]
-Overfull \hbox (1.2784pt too wide) in paragraph at lines 4033--4034
+[420]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [421]
+[422]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [423]
+[424] [425]
+Overfull \hbox (1.2784pt too wide) in paragraph at lines 4123--4124
 []\OT1/cmr/m/n/10 Challenging the multi-na-tion-als en-bloc is a point-less ex-
 er-cise, but con-fronting
  []
 
-[423] [424] [425] [426] [427] [428] [429] [430] [431] [432] [433]
+[426] [427] [428] [429] [430] [431] [432] [433] [434] [435]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [434]
-[435] [436] [437] [438] [439]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [440]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [441] [442]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [443] [444]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [445
+ [436]
+Underfull \vbox (badness 1082) has occurred while \output is active []
 
-] [446]
+ [437]
+[438] [439] [440] [441]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [442]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [443] [444] [445]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [446]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [447
 
-[447]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [448] [449] [450] [451] [452]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [453] [454]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [455] [456] [457] [458]
+] [448]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 
-[459] [460] [461] [462] [463] [464] [465] [466] [467]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [449]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+
+[450] [451]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [452]
+[453] [454]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [455] [456]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [457] [458] [459] [460]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [461] [462] [463] [464]
+[465]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [466]
+[467] [468] [469]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [470]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
+ [471]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [472]
+[473]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [468] [469] [470]
-[471]
+ [474] [475] [476] [477] [478]
+Missing character: There is no Â in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+ [479]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [472] [473] [474] [475] [476]
-Missing character: There is no Â in font cmbx12!
-Missing character: There is no £ in font cmbx12!
+ [480] [481]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [477]
+ [482] [483]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [478] [479] [480]
+ [484]
+[485] [486] [487] [488] [489] [490] [491] [492] [493] [494] [495] [496]
+[497] [498] [499] [500]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [481]
+ [501]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [482]
-[483] [484] [485] [486] [487] [488] [489] [490] [491] [492] [493] [494]
-[495] [496] [497] [498]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [499]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [500] [501] [502] [503] [504] [505] [506]
-[507] [508]
-Overfull \hbox (4.66724pt too wide) in paragraph at lines 4915--4916
+ [502] [503] [504] [505] [506] [507] [508]
+[509]
+Overfull \hbox (4.66724pt too wide) in paragraph at lines 5019--5020
 []\OT1/cmr/m/n/10 Apparently, new reg-u-la-tions gov-ern-ing farm-ers mar-kets 
 have re-cently emerged
  []
 
-[509] [510] [511] [512] [513] [514] [515]
+[510] [511] [512] [513] [514] [515] [516] [517]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [516] [517] [518] [519] [520]
-[521] [522
+ [518] [519] [520] [521]
+[522] [523]
+Underfull \vbox (badness 1502) has occurred while \output is active []
 
-] [523] [524] [525]
-Overfull \hbox (4.44391pt too wide) in paragraph at lines 5099--5100
+ [524
+
+]
+[525] [526] [527]
+Overfull \hbox (4.44391pt too wide) in paragraph at lines 5205--5206
 []\OT1/cmr/m/n/10 You will de-duce from all this that I do not ex-actly ven-er-
 ate En-glish hedgerows.
  []
 
-[526] [527] [528] [529] [530] [531] [532] [533] [534] [535] [536] [537]
-[538] [539]
+[528] [529] [530] [531] [532] [533] [534] [535] [536] [537] [538] [539]
+[540] [541]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [540] [541] [542] [543] [544] [545]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [546] [547] [548]
+ [542] [543] [544] [545] [546] [547]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
+ [548] [549] [550]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [551]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [549]
-[550] [551] [552] [553] [554] [555] [556]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [557] [558] [559]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
- [560] [561]
-[562] [563] [564] [565] [566] [567] [568] [569]
 
-Class memoir Warning: The material used in the headers is too large
-(24.0pt) for the given head height (12.0pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 5651.
-
-[570]
+[552] [553] [554] [555] [556] [557] [558]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [559] [560] [561]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [562] [563]
+[564] [565] [566] [567] [568] [569] [570] [571] [572]
 \tf@toc=\write4
 \openout4 = `book.toc'.
 
  (./book.aux) ) 
 Here is how much of TeX's memory you used:
- 11401 strings out of 493013
- 207996 string characters out of 6133328
- 268568 words of memory out of 5000000
- 14972 multiletter control sequences out of 15000+600000
- 5757 words of font info for 21 fonts, out of 8000000 for 9000
+ 11264 strings out of 493013
+ 206137 string characters out of 6133328
+ 265727 words of memory out of 5000000
+ 14840 multiletter control sequences out of 15000+600000
+ 5760 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,11n,27p,10388b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,11n,26p,10388b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr10.pfb>
-Output written on book.pdf (570 pages, 1673148 bytes).
+Output written on book.pdf (572 pages, 1669877 bytes).
 PDF statistics:
- 1853 PDF objects out of 2073 (max. 8388607)
- 1265 compressed objects within 13 object streams
+ 1860 PDF objects out of 2073 (max. 8388607)
+ 1270 compressed objects within 13 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

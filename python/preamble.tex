@@ -1,0 +1,82 @@
+
+\documentclass[10pt, showtrims]{memoir}
+
+\chapterstyle{bianchi}
+\OnehalfSpacing
+\openany
+
+% CONTENTS PAGE SETUP
+
+\usepackage{titletoc}
+
+\dottedcontents{section}[1.4in]{}{1.2in}{10pt}
+\dottedcontents{subsection}[1.4in]{}{1.2in}{10pt}
+\renewcommand{\chapternumberline}[1]{}
+\setsecnumdepth{section}
+
+
+% PAPER SIZE SETUP
+
+\setstocksize{239mm}{161mm}
+\settrimmedsize{234mm}{156mm}{*}
+\settrims{2.5mm}{2.5mm}
+\setlrmarginsandblock{20mm}{15mm}{*}
+\setulmarginsandblock{15mm}{15mm}{*}
+\checkandfixthelayout
+\pagestyle{plain}
+
+% PAGE SETUP
+
+\makepagestyle{mystyle}
+\makeevenhead {mystyle}{}{\leftmark} {}
+\makeoddhead {mystyle}{}{\rightmark}{}
+\makeevenfoot {mystyle}{}{\thepage} {}
+\makeoddfoot {mystyle}{}{\thepage} {}
+\makeatletter
+
+\makepsmarks {mystyle}{
+	\nouppercaseheads
+	\createmark {chapter} {left} {nonumber}{\@chapapp\ }{}
+	\createmark {section} {right}{shownumber}{} { \quad }
+	\createplainmark {toc} {both} {}
+}
+\makeatother
+
+\pagestyle{mystyle}
+
+
+\newcommand*\ruleline[1]{\par\noindent\raisebox{0.6ex}{\makebox[\linewidth]{\hrulefill\hspace{1ex}\raisebox{-.6ex}{#1}\hspace{1ex}\hrulefill}}}
+
+
+% Define chapter Style
+\makechapterstyle{mychapter}{
+  	\chapterstyle{default}
+	\renewcommand*{\printchaptername}{}
+	\renewcommand*{\chapternamenum}{}
+
+	\usepackage{fix-cm}
+
+   	\renewcommand*{\chapnamefont}{\large\centering}
+   	\renewcommand*{\chaptitlefont}{\large\centering}
+
+  	\renewcommand*{\chapterheadstart}{
+    		 \vskip\onelineskip  \hrule\vskip\onelineskip   
+	}
+  	\renewcommand{\printchaptertitle}[1]{
+  	  	\fontsize{30}{60}\selectfont \textbf{\ruleline{##1}\quad}
+	}
+  	\renewcommand*{\afterchaptertitle}{
+   		\vskip\onelineskip  \vskip\onelineskip
+ 	}
+}
+
+
+\chapterstyle{mychapter}
+\usepackage{xparse}
+\DeclareDocumentCommand{\column}{mmm}{
+	\renewcommand{\thesection}{#1}
+	\subsection[#2]{#3}
+}
+\setcounter{tocdepth}{2}
+
+\begin{document}

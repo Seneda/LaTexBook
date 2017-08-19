@@ -4,6 +4,7 @@ import subprocess
 from os import path
 
 import datetime
+from os.path import abspath
 
 from python.date import makeDate
 from python.dateslist import get_dates
@@ -13,104 +14,18 @@ class book(object):
     def __init__(self, filename):
         self.filename = filename
         self._text = ""
-        self.addSettings()
+        self.addPreamble()
 
-    def addSettings(self):
-        self.addLine("\documentclass[10pt, showtrims]{memoir}")
-        self.addLine("")
-        self.addLine("\chapterstyle{bianchi}")
-
-
-        self.addLine("\OnehalfSpacing")
-        self.addLine("\openany")
-        self.addLine("\\usepackage{titletoc}")
-        # self.addLine("\dottedcontents{section}[1.2in]{}{1.0in}{10pt}")
-        self.addLine("\dottedcontents{section}[0.9in]{}{0.7in}{10pt}")
-
-        # PAGE SIZE
-        # self.addLine("\setstocksize{215mm}{153mm}")
-        # self.addLine("\settrimmedsize{210mm}{148mm}{*}")
-        # self.addLine("\settrims{2.5mm}{2.5mm}")
-        # self.addLine("\setlrmarginsandblock{18mm}{15mm}{*}")
-        # self.addLine("\setulmarginsandblock{15mm}{15mm}{*}")
-
-        self.addLine("\setstocksize{239mm}{161mm}")
-        self.addLine("\settrimmedsize{234mm}{156mm}{*}")
-        self.addLine("\settrims{2.5mm}{2.5mm}")
-        self.addLine("\setlrmarginsandblock{20mm}{15mm}{*}")
-        self.addLine("\setulmarginsandblock{15mm}{15mm}{*}")
-
-
-
-        self.addLine("\checkandfixthelayout")
-        self.addLine("\pagestyle{plain}")
-        self.addLine("\\renewcommand{\chapternumberline}[1]{}")
-        self.addLine("")
-
-        self.addLine("""\makepagestyle{mystyle}
-\makeevenhead {mystyle}{}{\leftmark} {}
-\makeoddhead {mystyle}{}{\\rightmark}{}
-\makeevenfoot {mystyle}{}{\\thepage} {}
-\makeoddfoot {mystyle}{}{\\thepage} {}
-\makeatletter
-\makepsmarks {mystyle}{
-\\nouppercaseheads
-\createmark {chapter} {left} {nonumber}{\@chapapp\ }{}
-\createmark {section} {right}{shownumber}{} { \quad }
-\createplainmark {toc} {both} {}
-}
-\makeatother
-\setsecnumdepth{section}
-\pagestyle{mystyle}
-
-
-
-""")
-        self.addLine("""
-
-\\newcommand*\\ruleline[1]{\par\\noindent\\raisebox{0.6ex}{\makebox[\linewidth]{\hrulefill\hspace{1ex}\\raisebox{-.6ex}{#1}\hspace{1ex}\hrulefill}}}
-
-\makechapterstyle{mychapter}{
-\\renewcommand*{\printchaptername}{}
-\\renewcommand*{\chapternamenum}{}
-
-\\usepackage{fix-cm}
-
-
-  \chapterstyle{default}
-   \\renewcommand*{\chapnamefont}{\large\centering}
-   \\renewcommand*{\chaptitlefont}{\large\centering}
-
-
-
-  \\renewcommand*{\chapterheadstart}{"""
-    # \\vskip\onelineskip  \hrule\\vskip\onelineskip
-"""}
-  \\renewcommand{\printchaptertitle}[1]{
-  	 { \\fontsize{30}{60}\selectfont \\textbf{\\ruleline{##1}\quad}}
-
-  \\renewcommand*{\\afterchaptertitle}{
-   \\vskip\onelineskip  \\vskip\onelineskip
- }
-  }
-}
-\chapterstyle{mychapter}
-
-        """)
-
-
-        self.addLine("\\usepackage{xparse}")
-        self.addLine("\DeclareDocumentCommand{\column}{mm}{")
-        self.addLine("	\\renewcommand{\\thesection}{#1}")
-        self.addLine("	\section{#2}")
-        self.addLine("}")
-        self.addLine("")
-        self.addLine("\\begin{document}")
+    def addPreamble(self):
+        self.addRawLine(open(path.join(path.dirname(__file__), "preamble.tex")).read())
+        return
 
     def addTableOfContents(self):
         # self.addLine("\\begin{KeepFromToc}")
         # self.addLine("\\chapterstyle{bringhurst}")
         self.addLine("\\tableofcontents*")
+        self.addLine("\setsecnumdepth{section}")
+
 
         # self.addLine("\\end{KeepFromToc}")
 
@@ -139,10 +54,20 @@ class book(object):
     def addLine(self, string):
         self._text += "\n" + self.fix_string(string)
 
+    def addRawLine(self, string):
+        self._text += "\n" + string
+
+    def addComm(self, string):
+        self.addRawLine("\n%"+string+"\n")
+
 
     def addChapter(self, title):
         self.addLine("\\chapter*[%s]{%s}" % (title,title))
         self.addLine("\\addcontentsline{toc}{chapter}{%s}" % title)
+
+    def addSection(self, title):
+        self.addLine("\\section*[%s]{%s}" % (title,title))
+        self.addLine("\\addcontentsline{toc}{section}{%s}" % title)
 
     def addIntro(self, title, text):
         self.addChapter(title)
@@ -151,7 +76,11 @@ class book(object):
     def addColumn(self, date, title, text):
         print("Adding column {}".format(title))
         self.addLine("\\Needspace{10\\baselineskip}")
-        self.addLine("\column{%s}{%s}" % (date, titleCase(title)))
+        title = titleCase(title)
+        # date_title = dtStylish(date, "%B {th}")+" \quad "+title
+        date_title = title
+        date = dtStylish(date, "%B {th}")
+        self.addLine("\column{%s}{%s}{%s}" % (date, title, date_title))
         self.addLine(stripDateAtStart(text))
 
 
@@ -235,6 +164,7 @@ def main():
 
     # Add a column
     year = 0
+    month = 0
     # for root, dir, files in os.walk(text_files_dir):
     #     for f in sorted(files):
     for datestr in get_dates():
@@ -244,6 +174,9 @@ def main():
                 if date.year != year:
                     year = date.year
                     b.addChapter(year)
+                if date.month != month:
+                    month = date.month
+                    b.addSection(date.strftime("%B"))
                 file = get_file(datestr, text_files_dir)
                 print("Filename:",file.name)
 
@@ -255,7 +188,7 @@ def main():
 
                 print(date)
                 print(title)
-                b.addColumn(dtStylish(date, "%b {th}"), title, file.read())
+                b.addColumn(date, title, file.read())
             except Exception as e:
                 print("\n\n\nFailed on "+datestr+" "+str(e)+"\n\n\n")
                 raise

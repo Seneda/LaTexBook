@@ -13,7 +13,7 @@ class book(object):
         self.addSettings()
 
     def addSettings(self):
-        self.addLine("\documentclass[a5paper,9pt]{memoir}")
+        self.addLine("\documentclass[9pt, showtrims]{memoir}")
         self.addLine("")
         self.addLine("\chapterstyle{bianchi}")
 
@@ -22,8 +22,12 @@ class book(object):
         self.addLine("\openany")
         self.addLine("\\usepackage{titletoc}")
         self.addLine("\dottedcontents{section}[1.2in]{}{1.0in}{10pt}")
-        self.addLine("\setlrmarginsandblock{0.6in}{1.0in}{*}")
-        self.addLine("\setulmarginsandblock{0.7in}{0.75in}{*}")
+
+        self.addLine("\setstocksize{215mm}{153mm}")
+        self.addLine("\settrimmedsize{210mm}{148mm}{*}")
+        self.addLine("\settrims{2.5mm}{2.5mm}")
+        self.addLine("\setlrmarginsandblock{18mm}{15mm}{*}")
+        self.addLine("\setulmarginsandblock{15mm}{15mm}{*}")
         self.addLine("\checkandfixthelayout")
         self.addLine("\pagestyle{plain}")
         self.addLine("\\renewcommand{\chapternumberline}[1]{}")

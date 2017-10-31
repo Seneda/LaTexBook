@@ -1,0 +1,111 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{A}\relax \glsresetentrylist %
+\glossentry{AGM}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{B}\relax \glsresetentrylist %
+\glossentry{BCMS}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{BSE}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{BSPS}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{BT}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{C}\relax \glsresetentrylist %
+\glossentry{CAP}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{CJD}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{CLA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{D}\relax \glsresetentrylist %
+\glossentry{DEFRA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{E}\relax \glsresetentrylist %
+\glossentry{EC}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{ELS}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{EU}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{F}\relax \glsresetentrylist %
+\glossentry{FABBL}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{FMD}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{FUW}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{FWAG}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{FYM}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{G}\relax \glsresetentrylist %
+\glossentry{GDP}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{GM}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{GMO}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{I}\relax \glsresetentrylist %
+\glossentry{IACS}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{IGD}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{IGER}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{M}\relax \glsresetentrylist %
+\glossentry{MAFF}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{MEP}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{MMB}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{MP}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{N}\relax \glsresetentrylist %
+\glossentry{NBA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{NFSCo}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{NFU}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{O}\relax \glsresetentrylist %
+\glossentry{OFT}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{OTMS}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossentry{PAYE}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{R}\relax \glsresetentrylist %
+\glossentry{RPA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{RSPB}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{RSPCA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{T}\relax \glsresetentrylist %
+\glossentry{TB}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{U}\relax \glsresetentrylist %
+\glossentry{UHT}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{UK}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{UKIP}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{US}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{V}\relax \glsresetentrylist %
+\glossentry{VAT}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{W}\relax \glsresetentrylist %
+\glossentry{WMN}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\glossentry{WTO}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}\glsgroupskip
+\glsgroupheading{Y}\relax \glsresetentrylist %
+\glossentry{YFC}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsignore{556}}}%
+\end{theglossary}\glossarypostamble

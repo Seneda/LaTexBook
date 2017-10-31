@@ -5,9 +5,9 @@ from os import path
 
 import datetime
 from os.path import abspath
+from pprint import pprint
 
-from python.date import makeDate
-from python.dateslist import get_dates
+from dateslist import get_dates
 
 
 class book(object):
@@ -16,18 +16,17 @@ class book(object):
         self._text = ""
         self.addPreamble()
 
+    def beginDocument(self):
+        self.addLine("\\begin{document}")
+
     def addPreamble(self):
         self.addRawLine(open(path.join(path.dirname(__file__), "preamble.tex")).read())
         return
 
     def addTableOfContents(self):
-        # self.addLine("\\begin{KeepFromToc}")
-        # self.addLine("\\chapterstyle{bringhurst}")
+        # self.addLine("\chapterstyle{default}")
         self.addLine("\\tableofcontents*")
-        # self.addLine("\setsecnumdepth{section}")
-
-
-        # self.addLine("\\end{KeepFromToc}")
+        # self.addLine("\chapterstyle{mychapter}")
 
     @staticmethod
     def fix_string(string):
@@ -40,10 +39,13 @@ class book(object):
             ("”", "\""),
             ("–", "--"),
             (" ?", "?"),
+            ("é", "e"),
+            # ("°", "\degree "),
             (" \"", " ``"),
             ("\n\"", "\n``"),
             ("{\"", "{``"),
             ("$", "\$"),
+            ("£", "\\textsterling"),
             ("Defra", "DEFRA")
         ]
         for a,b in corrections:
@@ -78,22 +80,52 @@ class book(object):
         print("Adding column {}".format(title))
         self.addLine("\\Needspace{10\\baselineskip}")
         title = titleCase(title)
-        date = dtStylish(date, "{th}")
-        self.addLine("\column{%s}{%s}" % (date, title))
+        long_date = dtStylish(date, "%B {th}")
+        short_date = dtStylish(date, "%b {th}")
+        day = dtStylish(date, "{th}")
+        self.addLine("\column{%s}{%s}{%s}{%s}" % (long_date, short_date, title, day))
         self.addLine(stripDateAtStart(text))
 
+    def makeGlossary(self, dir):
+        glossary = open(path.join(dir, "glossary.txt")).read()
+        glossary = [g.split(' - ') for g in glossary.splitlines()]
+        pprint(glossary)
+        for g in glossary:
+            if len(g) == 3:
+                self.addLine("\\newglossaryentry{%s}{name=%s, description={%s}}" % (g[1], g[1], g[2]))
+
+
+    def addGlossary(self):
+        # self.addLine("\printglossary{type=acronym}")
+
+        # self.addLine("\chapterstyle{southall}")
+
+        self.addLine("\glsaddallunused")
+        self.addLine("\printglossary")
 
     def endDocument(self):
         self.addLine("\end{document}")
 
-
     def generatePDF(self):
         with open(path.join("latex", self.filename+".tex"), "w") as tex:
             tex.write(self._text)
-        p = subprocess.Popen(["/usr/local/texlive/2016/bin/x86_64-linux/pdflatex", self.filename], cwd="latex")
+        # p = subprocess.Popen(["/usr/local/texlive/2016/bin/x86_64-linux/pdflatex", self.filename], cwd="latex")
+        p = subprocess.Popen(["/usr/bin/pdflatex", self.filename], cwd="latex")
         p.communicate()
-        p = subprocess.Popen(["/usr/local/texlive/2016/bin/x86_64-linux/pdflatex", self.filename], cwd="latex")
+        p = subprocess.Popen(["ls", self.filename], cwd="latex")
         p.communicate()
+        # p = subprocess.Popen(["/usr/local/texlive/2016/bin/x86_64-linux/makeglossaries", self.filename], cwd="latex")
+        p = subprocess.Popen(["/usr/bin/makeglossaries", self.filename], cwd="latex")
+        p.communicate()
+
+        # p = subprocess.Popen(["/usr/local/texlive/2016/bin/x86_64-linux/pdflatex", self.filename], cwd="latex")
+        p = subprocess.Popen(["/usr/bin/pdflatex", self.filename], cwd="latex")
+        p.communicate()
+        # p = subprocess.Popen(["/usr/local/texlive/2016/bin/x86_64-linux/pdflatex", self.filename], cwd="latex")
+        # p.communicate()
+        # p = subprocess.Popen(["/usr/local/texlive/2016/bin/x86_64-linux/pdflatex", self.filename], cwd="latex")
+        # p.communicate()
+
         p = subprocess.Popen(["mupdf", self.filename+".pdf"], cwd="latex")
 
 
@@ -102,7 +134,7 @@ import re
 
 def titleCase(string):
     smallwords = ["a", "an", "the", "at", "by", "for", "in", "of", "on",
-                  "to", "up", "and", "as", "but", "or", "and", "nor", "for"]
+                  "to", "up", "and", "as", "but", "or", "and", "nor", "for", "is"]
 
     def repl_func(m):
         """process regular expression match groups for word upper-casing problem"""
@@ -151,11 +183,46 @@ def get_file(prefix, filesdir):
     else:
         raise Exception("COuldnt find a file starting with {} in {}".format(prefix, filesdir))
 
+def fixPars(text):
+    # text = text.split("\n\n")
+    # text = "\looseness=-1\n\n".join(text)
+    return text
+
+
 def main():
     b = book("book")
-    b.addTableOfContents()
-    text_files_dir = "/home/seneda/PycharmProjects/latexbook/doc_files/txts"
 
+    text_files_dir = "/home/seneda/latexbook/doc_files/txts"
+    b.makeGlossary(text_files_dir)
+    b.beginDocument()
+    b.addRawLine("""\mbox{}
+\\thispagestyle{empty}
+\\newpage""")
+    b.addRawLine("""\mbox{}
+\\thispagestyle{empty}
+\\newpage""")
+    b.addLine("\includepdf{titlepage}")
+    b.addRawLine("""\mbox{}
+\\thispagestyle{empty}
+\\newpage""")
+    b.addLine("\pagenumbering{roman}")
+    b.addLine("\includepdf{dedicationpage}")
+
+    b.addRawLine("""\mbox{}
+\\thispagestyle{empty}
+\\newpage""")
+
+
+    b.addTableOfContents()
+    b.addRawLine("""\mbox{}
+\\thispagestyle{empty}
+\\newpage""")
+    b.addRawLine("""\mbox{}
+\\thispagestyle{empty}
+\\newpage""")
+    b.addRawLine("""\mbox{}
+\\thispagestyle{empty}
+\\newpage""")
     # b.addIntro("Ian Pettyfer Brief Background",
     #            open(path.join(text_files_dir, "Ian Pettyfer Brief Background.txt")).read())
 
@@ -166,13 +233,16 @@ def main():
     month = 0
     # for root, dir, files in os.walk(text_files_dir):
     #     for f in sorted(files):
-    for datestr in get_dates():
+    for datestr in get_dates()[:]:
             try:
                 # print(f)
                 date = datetime.datetime.strptime(datestr, "%Y-%m-%d")
                 if date.year != year:
                     year = date.year
                     b.addChapter(year)
+                    if year == 2002:
+                        b.addLine("\pagenumbering{arabic}")
+                        b.addLine("\setcounter{page}{1}")
                 if date.month != month:
                     month = date.month
                     b.addSection(date.strftime("%B"))
@@ -187,10 +257,14 @@ def main():
 
                 print(date)
                 print(title)
-                b.addColumn(date, title, file.read())
+
+                # if "\n\n" not in file.read().strip():
+                #     input(date)
+                b.addColumn(date, title, fixPars(file.read()))
             except Exception as e:
                 print("\n\n\nFailed on "+datestr+" "+str(e)+"\n\n\n")
                 raise
+    b.addGlossary()
     b.endDocument()
     b.generatePDF()
 

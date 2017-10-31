@@ -1,0 +1,79 @@
+      1 - BCMS - British Cattle Movement Service
+      1 - BSPS - Beef Special Premium Scheme
+      1 - CLA - Country Land and Business Association
+      1 - EC - European Commission
+      1 - ELS - Entry Level Stewardship ? 
+      1 - FUW - 
+      1 - GMT
+      1 - HIV
+      1 - HP
+      1 - HQ
+      1 - ISG
+      1 - LAA
+      1 - LEAF
+      1 - MBE
+      1 - NI
+      1 - NSA
+      1 - OPEC
+      1 - OS
+      1 - OTM
+      1 - PM
+      1 - RAF
+      1 - RIP
+      1 - RSBP
+      1 - SIAL
+      1 - UDI
+      1 - WWT
+      2 - ACRE
+      2 - AMC
+      2 - CI
+      2 - EID
+      2 - GPO
+      2 - MVF
+      2 - QMP
+      2 - RABI
+      2 - SFP
+      2 - TVO
+      2 - USA
+      3 - BBC
+      3 - CPRE
+      3 - IGD - Institute of Grocery Distribution
+      3 - UHT - Ultra Heat Treated Milk
+      3 - WTO - World Trade Organisation
+      4 - FABBL - Farm Assured British Beef and Lamb
+      4 - GMO - Genetically Modified Organism
+      4 - MMB - Milk Marketing Board
+      4 - NBA - National Beef Association
+      4 - PAYE - Pay as you Earn
+      4 - UKIP - United Kingdom Independence Party
+      4 - VAT - Value Added Tax
+      5 - CJD - Creutzfeldt-Jakob Disease
+      5 - FYM - Farm Yard Manure
+      5 - MEP - Member of The European Parliament
+      5 - NFSCo - National Fallen Stock Company
+      6 - FWAG - Farming & Wildlife Advisory Group
+      6 - GDP - Gross Domestic Product
+      6 - IGER - Institute of Grassland and Environmental Research
+      6 - MAFF - Ministry of Agriculture, Fisheries and Food
+      6 - YFC - Young Farmers Club
+      7 - DEFRA - Department for the Environment, Farming and Rural Affairs 
+UK government ministry
+      7 - OTMS - Over Thirty Months Scheme
+      9 - BT - British telephone company formerly British Telecoms
+      9 - OFT - Office of Fair Trading
+      9 - RPA - Rural Payments Agency
+      9 - WMN - Western Morning News, Newspaper
+     11 - IACS - Integrated Administration and Control System, Name of forms for receiving single farm payment
+     15 - RSPCA - Royal Society for the Prevention of Cruelty to Animals
+     20 - FMD - Foot and Mouth Disease
+     21 - US - United States of Amercia
+     25 - MP - Member of Parliament
+     27 - GM - Genetically Modified
+     29 - AGM - Annual General Meeting
+     35 - CAP - Common Agricultural Policy
+     39 - RSPB - Royal Society for the Protection of Birds
+     56 - BSE - Bovine Spongiform Encephalopathy
+     56 - EU - European Union
+    103 - UK - United Kindgom
+    167 - NFU - National Farmers' Union
+    179 - TB - Tuberculosis

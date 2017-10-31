@@ -3,9 +3,19 @@
 \chapterstyle{bianchi}
 % Need a bit more space between lines for readability
 \OnehalfSpacing
+%\setlength{\parskip}{1em}
+
+
+
 
 % Allow chapters to start on either odd or even pages
 \openany
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{gensymb}
+\usepackage{textcomp}
+
 
 % CONTENTS PAGE SETUP
 
@@ -22,10 +32,10 @@
 
 % PAPER SIZE SETUP
 
-\setstocksize{239mm}{161mm}
+\setstocksize{244mm}{166mm}
 \settrimmedsize{234mm}{156mm}{*}
-\settrims{2.5mm}{2.5mm}
-\setlrmarginsandblock{20mm}{15mm}{*}
+\settrims{5mm}{5mm}
+\setlrmarginsandblock{18mm}{15mm}{*}
 \setulmarginsandblock{15mm}{15mm}{*}
 \checkandfixthelayout
 \pagestyle{plain}
@@ -55,27 +65,56 @@
 
 % command for drawing ruled line around some words
 \newcommand*\ruleline[1]{\par\noindent\raisebox{0.6ex}{\makebox[\linewidth]{\hrulefill\hspace{1ex}\raisebox{-.6ex}{#1}\hspace{1ex}\hrulefill}}}
+\usepackage{fix-cm}
 
 \makechapterstyle{mychapter}{
   	\chapterstyle{default}
+    \setlength{\beforechapskip}{1mm}
+    \setlength{\midchapskip}{1mm}
+    \setlength{\afterchapskip}{1mm}
+
+    % FIGURE OUT WHY THESE DO NOTHING
+
 	\renewcommand*{\printchaptername}{}
 	\renewcommand*{\chapternamenum}{}
-
-	\usepackage{fix-cm}
 
    	\renewcommand*{\chapnamefont}{\large\centering}
    	\renewcommand*{\chaptitlefont}{\large\centering}
 
+
+
+
   	\renewcommand*{\chapterheadstart}{
-    		 \vskip\onelineskip
+    		 %\hrule
 	}
   	\renewcommand{\printchaptertitle}[1]{
   	  	\fontsize{30}{60}\selectfont \textbf{\ruleline{##1}\quad}
 	}
-  	\renewcommand*{\afterchaptertitle}{
-   		\vskip\onelineskip  % DONT UNCOMMENT THIS AS IT BREAKS THE TABLE OF CONTENTS WTF?!??!
- 	}
-}
+%  	\renewcommand*{\afterchaptertitle}{
+%   	\hrule
+%   	%\vskip\onelineskip  % DONT UNCOMMENT THIS AS IT BREAKS THE TABLE OF CONTENTS WTF?!??!
+% 	}
+
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{}
+%  \renewcommand*{\printchaptertitle}[1]{%
+ %%%    \raggedright\Large\scshape\MakeLowercase{##1}}
+%    \memRTLraggedright\Large\scshape\MakeTextLowercase{##1}}
+%  \renewcommand*{\afterchaptertitle}{%
+%  \vskip\onelineskip \hrule\vskip\onelineskip}
+
+%}
+  	\renewcommand{\printchaptertitle}[1]{
+  	  	\fontsize{30}{20}
+        \hrule\vskip\onelineskip
+  	  	\selectfont \textbf{\hfill##1\hfill} \vskip\onelineskip
+  	  	\hrule\vskip\onelineskip\vskip\onelineskip
+	}
+	}
+
 \chapterstyle{mychapter}
 
 
@@ -83,16 +122,44 @@
 % CUSTOM SECTION COMMANDS
 
 \usepackage{xparse}
-\DeclareDocumentCommand{\column}{mm}{
-	\renewcommand{\thesubsection}{#1}
-	\subsection{#2}
+\DeclareDocumentCommand{\column}{mmmm}{
+	% {long date}{short date}{title}{day}
+	\subsection*{#1 \newline #3}
+	\addcontentsline{toc}{subsection}{\numberline{#4} #3}
+    \markright{#2 \quad #3}
+
 }
 
 \newcommand{\monthsec}[1]{
   \refstepcounter{section}
   \addcontentsline{toc}{section}{#1}
-  \markright{#1}
   }
 
+% Use the glossry package
 
-\begin{document}
+\usepackage[toc]{glossaries}
+\makeglossaries
+
+% DEAL WITH WIDOWS AND ORPHANS
+
+%\widowpenalty10000
+%\clubpenalty9999
+
+%\setlength{\parindent}{0pt}
+%\emergencystretch.1\textwidth
+
+%\usepackage[latin]{babel}
+
+%\parfillskip 0pt plus 100pt
+
+%\widowpenalties=3 10000 10000 150
+
+
+%\begin{document}
+
+\usepackage{pdfpages}
+\usepackage{color}
+
+
+%\color{gray}
+

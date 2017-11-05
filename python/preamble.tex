@@ -1,4 +1,5 @@
-\documentclass[10pt, showtrims]{memoir}
+%\documentclass[10pt, showtrims]{memoir}
+\documentclass[10pt]{memoir}
 
 \chapterstyle{bianchi}
 % Need a bit more space between lines for readability
@@ -32,9 +33,9 @@
 
 % PAPER SIZE SETUP
 
-\setstocksize{244mm}{166mm}
+\setstocksize{239mm}{161mm}
 \settrimmedsize{234mm}{156mm}{*}
-\settrims{5mm}{5mm}
+\settrims{2.5mm}{2.5mm}
 \setlrmarginsandblock{18mm}{15mm}{*}
 \setulmarginsandblock{15mm}{15mm}{*}
 \checkandfixthelayout
@@ -52,6 +53,7 @@
 \makepsmarks {mystyle}{
 	\nouppercaseheads
 	\createmark {chapter} {left} {nonumber}{\@chapapp\ }{}
+	%\createmark {section} {right}{shownumber}{} { \quad }
 	\createmark {section} {right}{shownumber}{} { \quad }
 	\createplainmark {toc} {both} {}
 }
@@ -115,16 +117,71 @@
 	}
 	}
 
+
+\makechapterstyle{mychaptersmall}{
+  	\chapterstyle{default}
+    \setlength{\beforechapskip}{1mm}
+    \setlength{\midchapskip}{1mm}
+    \setlength{\afterchapskip}{1mm}
+
+    % FIGURE OUT WHY THESE DO NOTHING
+
+	\renewcommand*{\printchaptername}{}
+	\renewcommand*{\chapternamenum}{}
+
+   	\renewcommand*{\chapnamefont}{\large\centering}
+   	\renewcommand*{\chaptitlefont}{\large\centering}
+
+
+
+
+  	\renewcommand*{\chapterheadstart}{
+    		 %\hrule
+	}
+  	\renewcommand{\printchaptertitle}[1]{
+  	  	\fontsize{30}{60}\selectfont \textbf{\ruleline{##1}\quad}
+	}
+%  	\renewcommand*{\afterchaptertitle}{
+%   	\hrule
+%   	%\vskip\onelineskip  % DONT UNCOMMENT THIS AS IT BREAKS THE TABLE OF CONTENTS WTF?!??!
+% 	}
+
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{}
+%  \renewcommand*{\printchaptertitle}[1]{%
+ %%%    \raggedright\Large\scshape\MakeLowercase{##1}}
+%    \memRTLraggedright\Large\scshape\MakeTextLowercase{##1}}
+%  \renewcommand*{\afterchaptertitle}{%
+%  \vskip\onelineskip \hrule\vskip\onelineskip}
+
+%}
+  	\renewcommand{\printchaptertitle}[1]{
+  	  	\fontsize{22}{20}
+        \hrule\vskip\onelineskip
+  	  	\selectfont \textbf{\hfill##1\hfill} \vskip\onelineskip
+  	  	\hrule\vskip\onelineskip\vskip\onelineskip
+	}
+	}
+
 \chapterstyle{mychapter}
 
 
 
 % CUSTOM SECTION COMMANDS
 
+\usepackage{lipsum}
+
+%\cftsetindents{section}{1ex}{3em}
+\cftsetindents{subsection}{3em}{3em}
+
+
 \usepackage{xparse}
 \DeclareDocumentCommand{\column}{mmmm}{
-	% {long date}{short date}{title}{day}
-	\subsection*{#1 \newline #3}
+
+	\subsection*{\Large #1 \newline #3}
 	\addcontentsline{toc}{subsection}{\numberline{#4} #3}
     \markright{#2 \quad #3}
 
@@ -137,7 +194,9 @@
 
 % Use the glossry package
 
-\usepackage[toc]{glossaries}
+\usepackage[toc,style=super,nogroupskip]{glossaries}
+\setlength{\glsdescwidth}{0.85\textwidth}
+
 \makeglossaries
 
 % DEAL WITH WIDOWS AND ORPHANS
@@ -153,6 +212,9 @@
 %\parfillskip 0pt plus 100pt
 
 %\widowpenalties=3 10000 10000 150
+
+%\usepackage[defaultlines=,all]{nowidow}
+\usepackage{nowidow}
 
 
 %\begin{document}

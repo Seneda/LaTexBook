@@ -33,9 +33,10 @@ class book(object):
         corrections = [
             ("&", "\&"),
             ("%", "\%"),
+            (" '", "`"),
             ("’", "'"),
             ("‘", "`"),
-            ("“", "\""),
+            ("“", "``"),
             ("”", "\""),
             ("–", "--"),
             (" ?", "?"),
@@ -46,7 +47,11 @@ class book(object):
             ("{\"", "{``"),
             ("$", "\$"),
             ("£", "\\textsterling"),
-            ("Defra", "DEFRA")
+            ("Defra", "DEFRA"),
+            ("traveled", "travelled"),
+            ("severly", "severely"),
+            ("Chumleigh", "Chulmleigh"),
+            ("Gilbard", "Gillbard")
         ]
         for a,b in corrections:
             string = string.replace(a, b)
@@ -84,24 +89,37 @@ class book(object):
         short_date = dtStylish(date, "%b {th}")
         day = dtStylish(date, "{th}")
         self.addLine("\column{%s}{%s}{%s}{%s}" % (long_date, short_date, title, day))
+        if text:
+            text = text[:]
+
         self.addLine(stripDateAtStart(text))
+        self.addLine("\\nowidow[3]")
 
     def makeGlossary(self, dir):
-        glossary = open(path.join(dir, "glossary.txt")).read()
+        glossary = open(path.join(dir, "glossary2.txt")).read()
         glossary = [g.split(' - ') for g in glossary.splitlines()]
         pprint(glossary)
-        for g in glossary:
+        glossary = sorted(glossary, key=lambda x: x[1].upper())
+        pprint(glossary)
+
+        for i, g in enumerate(glossary):
             if len(g) == 3:
-                self.addLine("\\newglossaryentry{%s}{name=%s, description={%s}}" % (g[1], g[1], g[2]))
+                if int(g[0]) > 2:
+                    if i < (len(glossary)-1):
+                        self.addLine("\longnewglossaryentry{%s}{name=%s}{%s \\vspace{2.1 mm}}" % (g[1], g[1], g[2]))
+                    else:
+                        self.addLine("\longnewglossaryentry{%s}{name=%s}{%s}" % (g[1], g[1], g[2]))
+
 
 
     def addGlossary(self):
         # self.addLine("\printglossary{type=acronym}")
-
-        # self.addLine("\chapterstyle{southall}")
-
+        self.addLine("\\begingroup")
+        self.addLine("\chapterstyle{mychaptersmall}")
+        self.addLine("\clearpage")
         self.addLine("\glsaddallunused")
-        self.addLine("\printglossary")
+        self.addLine("\printglossary[title={Glossary of Farming Acronyms}]")
+        self.addLine("\endgroup")
 
     def endDocument(self):
         self.addLine("\end{document}")
@@ -133,8 +151,8 @@ import re
 
 
 def titleCase(string):
-    smallwords = ["a", "an", "the", "at", "by", "for", "in", "of", "on",
-                  "to", "up", "and", "as", "but", "or", "and", "nor", "for", "is"]
+    smallwords = ["a", "an", "the", "at", "by", "for", "in", "of", "on", "to", "up", "and", "as", "but", "or", "and",
+                  "nor", "for", "is", "it", "be", "are"]
 
     def repl_func(m):
         """process regular expression match groups for word upper-casing problem"""
@@ -143,11 +161,12 @@ def titleCase(string):
     words = re.sub("(^|\s)(\"\S|\S)", repl_func, string)
     words = words.split()
     r = words[:1]
-    for word in words[1:]:
+    for word in words[1:-1]:
         if word.lower() in smallwords:
             r.append(word.lower())
         else:
             r.append(word)
+    r.append(words[-1])
     return " ".join(r)
 
 def ord(n):
@@ -195,9 +214,17 @@ def main():
     text_files_dir = "/home/seneda/latexbook/doc_files/txts"
     b.makeGlossary(text_files_dir)
     b.beginDocument()
-    b.addRawLine("""\mbox{}
-\\thispagestyle{empty}
-\\newpage""")
+    b.addLine("""
+    \\vspace*{12em}
+    {
+    \HUGE  
+    \centerline{\\textbf{The View from}} 
+    \centerline{\\textbf{South Emlett}}
+ \\thispagestyle{empty}
+
+     }
+    """)
+    b.addLine("\\newpage")
     b.addRawLine("""\mbox{}
 \\thispagestyle{empty}
 \\newpage""")
@@ -211,18 +238,9 @@ def main():
     b.addRawLine("""\mbox{}
 \\thispagestyle{empty}
 \\newpage""")
-
-
+    b.addLine("\setcounter{page}{1}")
     b.addTableOfContents()
-    b.addRawLine("""\mbox{}
-\\thispagestyle{empty}
-\\newpage""")
-    b.addRawLine("""\mbox{}
-\\thispagestyle{empty}
-\\newpage""")
-    b.addRawLine("""\mbox{}
-\\thispagestyle{empty}
-\\newpage""")
+    b.addLine("\cleardoublepage")
     # b.addIntro("Ian Pettyfer Brief Background",
     #            open(path.join(text_files_dir, "Ian Pettyfer Brief Background.txt")).read())
 
@@ -261,6 +279,7 @@ def main():
                 # if "\n\n" not in file.read().strip():
                 #     input(date)
                 b.addColumn(date, title, fixPars(file.read()))
+
             except Exception as e:
                 print("\n\n\nFailed on "+datestr+" "+str(e)+"\n\n\n")
                 raise

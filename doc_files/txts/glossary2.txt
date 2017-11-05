@@ -1,0 +1,24 @@
+      3 - IGD - Institute of Grocery Distribution
+      3 - UHT - Ultra Heat Treated Milk
+      4 - FABBL - Farm Assured British Beef and Lamb
+      4 - GMO - Genetically Modified Organism
+      4 - MMB - Milk Marketing Board
+      4 - NBA - National Beef Association
+      5 - vCJD - Variant Creutzfeldt-Jakob Disease
+      0 - FYM - Farm Yard Manure
+      5 - NFSCo - National Fallen Stock Company
+      6 - FWAG - Farming & Wildlife Advisory Group
+      6 - IGER - Institute of Grassland and Environmental Research
+      6 - MAFF - Ministry of Agriculture, Fisheries and Food
+      6 - YFC - Young Farmers Club
+      7 - DEFRA - Department for the Environment, Farming and Rural Affairs
+      7 - OTMS - Over Thirty Months Scheme
+      9 - RPA - Rural Payments Agency
+      9 - WMN - Western Morning News, Newspaper
+     11 - IACS - Integrated Administration and Control System
+     20 - FMD - Foot and Mouth Disease
+     27 - GM - Genetically Modified
+     35 - CAP - Common Agricultural Policy
+     56 - BSE - Bovine Spongiform Encephalopathy
+    167 - NFU - National Farmers' Union
+    179 - TB - Tuberculosis
